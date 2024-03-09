@@ -16,15 +16,7 @@ public static class ButtonOperations
     public static Control ParentControl { get; set; }
     private static int _index = 1;
 
-    /// <summary>
-    /// Initialize global properties
-    /// </summary>
-    /// <param name="control">Control to place button</param>
-    /// <param name="top">Top</param>
-    /// <param name="baseHeightPadding">Padding between buttons</param>
-    /// <param name="left">Left position</param>
-    /// <param name="width">Width of button</param>
-    /// <param name="buttonClick">Click event for button</param>
+
     public static void Initialize(ButtonSetup sender)
     {
 
