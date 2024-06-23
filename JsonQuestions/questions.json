@@ -1,0 +1,4925 @@
+[
+  {
+    "Id": 1,
+    "Question": "A flashing red traffic light signifies that a driver should do what?",
+    "A": "stop",
+    "B": "speed up",
+    "C": "proceed with caution",
+    "D": "honk the horn",
+    "Answer": "A"
+  },
+  {
+    "Id": 2,
+    "Question": "A knish is traditionally stuffed with what filling?",
+    "A": "potato",
+    "B": "creamed corn",
+    "C": "lemon custard",
+    "D": "raspberry jelly",
+    "Answer": "A"
+  },
+  {
+    "Id": 3,
+    "Question": "A pita is a type of what?",
+    "A": "fresh fruit",
+    "B": "flat bread",
+    "C": "French tart",
+    "D": "friend bean dip",
+    "Answer": "B"
+  },
+  {
+    "Id": 4,
+    "Question": "A portrait that comically exaggerates a person\u0027s physical traits is called a what?",
+    "A": "landscape",
+    "B": "caricature",
+    "C": "still life",
+    "D": "Impressionism",
+    "Answer": "B"
+  },
+  {
+    "Id": 5,
+    "Question": "A second-year college student is usually called a what?",
+    "A": "sophomore",
+    "B": "senior",
+    "C": "freshman ",
+    "D": "junior ",
+    "Answer": "A"
+  },
+  {
+    "Id": 6,
+    "Question": "A student who earns a J.D. can begin his or her career as a what?",
+    "A": "lawyer",
+    "B": "bricklayer",
+    "C": "doctor",
+    "D": "accountant",
+    "Answer": "A"
+  },
+  {
+    "Id": 7,
+    "Question": "A triptych is a work of art that is painted on how many panels?",
+    "A": "two",
+    "B": "three",
+    "C": "five",
+    "D": "eight",
+    "Answer": "B"
+  },
+  {
+    "Id": 8,
+    "Question": "According to a famous line from the existentialist play \u0027No Exit\u0027 what is hell?",
+    "A": "oneself",
+    "B": "other people",
+    "C": "little made large",
+    "D": "hued in green and blue",
+    "Answer": "B"
+  },
+  {
+    "Id": 9,
+    "Question": "According to a popular slogan, what state should people not \u0027mess with\u0027?",
+    "A": "New York",
+    "B": "Texas",
+    "C": "Montana",
+    "D": "Rhode Island",
+    "Answer": "B"
+  },
+  {
+    "Id": 10,
+    "Question": "According to a Yale University study, what smell is the most recognizable to American adults?",
+    "A": "tuna",
+    "B": "laundry",
+    "C": "popcorn",
+    "D": "coffee",
+    "Answer": "D"
+  },
+  {
+    "Id": 11,
+    "Question": "According to folklore, the \u0027jackalope\u0027 is an antlered version of what animal?",
+    "A": "chicken",
+    "B": "rabbit",
+    "C": "moose",
+    "D": "snake",
+    "Answer": "B"
+  },
+  {
+    "Id": 12,
+    "Question": "According to Greek mythology, who was Apollo\u0027s twin sister?",
+    "A": "Aphrodite",
+    "B": "Artemis",
+    "C": "Venus",
+    "D": "Athena",
+    "Answer": "B"
+  },
+  {
+    "Id": 13,
+    "Question": "According to legend, if you give someone the \u0027evil eye\u0027 what are you doing?",
+    "A": "cursing them",
+    "B": "blessing a child",
+    "C": "counting money",
+    "D": "passing time",
+    "Answer": "A"
+  },
+  {
+    "Id": 14,
+    "Question": "According to legend, in what country are you most likely to meet a leprechaun?",
+    "A": "Ireland",
+    "B": "Poland",
+    "C": "Greenland",
+    "D": "Scotland",
+    "Answer": "A"
+  },
+  {
+    "Id": 15,
+    "Question": "According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
+    "A": "Poodle",
+    "B": "Beagle",
+    "C": "German shepherd",
+    "D": "Labrador retriever",
+    "Answer": "D"
+  },
+  {
+    "Id": 16,
+    "Question": "According to the Bible, Moses and Aaron had a sister named what?",
+    "A": "Jochebed",
+    "B": "Ruth",
+    "C": "Leah",
+    "D": "Miriam",
+    "Answer": "D"
+  },
+  {
+    "Id": 17,
+    "Question": "According to the children\u0027s nursery rhyme, what type of ocean did Columbus sail in 1492?",
+    "A": "calm",
+    "B": "blue",
+    "C": "windy",
+    "D": "really big",
+    "Answer": "B"
+  },
+  {
+    "Id": 18,
+    "Question": "According to the Mother Goose nursery rhyme, which child is full of woe?",
+    "A": "Monday\u0027s child",
+    "B": "Wednesday\u0027s child",
+    "C": "Thursday\u0027s child",
+    "D": "Saturday\u0027s child",
+    "Answer": "B"
+  },
+  {
+    "Id": 19,
+    "Question": "According to the popular saying, what should you do \u0027when in Rome\u0027?",
+    "A": "watch your wallet",
+    "B": "see the Coliseum",
+    "C": "as the Romans do",
+    "D": "don\u0027t drink the water",
+    "Answer": "C"
+  },
+  {
+    "Id": 20,
+    "Question": "According to the proverb, necessity is the mother of what?",
+    "A": "Invention",
+    "B": "Luck",
+    "C": "Problems",
+    "D": "Procrastination",
+    "Answer": "A"
+  },
+  {
+    "Id": 21,
+    "Question": "According to the title of a popular children\u0027s TV show, what color is Bear\u0027s big house?",
+    "A": "red",
+    "B": "green",
+    "C": "purple",
+    "D": "blue",
+    "Answer": "D"
+  },
+  {
+    "Id": 22,
+    "Question": "According to the USDA, which food group should you eat the most servings of per day?",
+    "A": "vegetables",
+    "B": "dairy",
+    "C": "meats",
+    "D": "breads",
+    "Answer": "D"
+  },
+  {
+    "Id": 23,
+    "Question": "Ada Lovelace is credited with being the first person to have made what?",
+    "A": "a computer program",
+    "B": "a souffle",
+    "C": "a brassiere",
+    "D": "a mystery novel",
+    "Answer": "A"
+  },
+  {
+    "Id": 24,
+    "Question": "After Prince Charles, who is next in line to be the king of England?",
+    "A": "Prince William",
+    "B": "Prince Andrew",
+    "C": "Prince Edward",
+    "D": "Fresh Prince",
+    "Answer": "A"
+  },
+  {
+    "Id": 25,
+    "Question": "An airplane\u0027s black box is usually what color?",
+    "A": "black",
+    "B": "white",
+    "C": "orange",
+    "D": "purple",
+    "Answer": "C"
+  },
+  {
+    "Id": 26,
+    "Question": "As of 1999, which state has the most Girl Scouts?",
+    "A": "California",
+    "B": "Illinois",
+    "C": "New York",
+    "D": "Pennsylvania",
+    "Answer": "A"
+  },
+  {
+    "Id": 27,
+    "Question": "Astronaut John Glenn served as a pilot in what branch of the military?",
+    "A": "Army",
+    "B": "Air Force",
+    "C": "Marines",
+    "D": "Navy",
+    "Answer": "C"
+  },
+  {
+    "Id": 28,
+    "Question": "At the equator, how fast is the earth\u0027s surface turning?",
+    "A": "about 100 miles per hour",
+    "B": "about 500 miles per hour",
+    "C": "about 1000 miles per hour",
+    "D": "about 2000 miles per hour",
+    "Answer": "C"
+  },
+  {
+    "Id": 29,
+    "Question": "At what age can someone first attend an R-rated movie without an accompanying adult?",
+    "A": "15",
+    "B": "17",
+    "C": "18",
+    "D": "21",
+    "Answer": "C"
+  },
+  {
+    "Id": 30,
+    "Question": "Backgammon is a how many player game?",
+    "A": "Two",
+    "B": "Three",
+    "C": "Four",
+    "D": "Six",
+    "Answer": "A"
+  },
+  {
+    "Id": 31,
+    "Question": "Before he went into coaching, Phil Jackson played for which of the following NBA teams?",
+    "A": "Boston Celtics",
+    "B": "Los Angeles Lakers",
+    "C": "New York Knicks",
+    "D": "Philadelphia 76ers",
+    "Answer": "C"
+  },
+  {
+    "Id": 32,
+    "Question": "By what name is Bob Keeshan better known?",
+    "A": "Bozo the Clown",
+    "B": "Pee Wee Herman",
+    "C": "Captain Kangaroo",
+    "D": "Buffalo Bob",
+    "Answer": "C"
+  },
+  {
+    "Id": 33,
+    "Question": "By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?",
+    "A": "the Trio",
+    "B": "the Troika",
+    "C": "the Triumvirate",
+    "D": "the Trinity",
+    "Answer": "D"
+  },
+  {
+    "Id": 34,
+    "Question": "By what nickname is the Federal National Mortgage Association known?",
+    "A": "Morty",
+    "B": "FEMA",
+    "C": "Freddie Mac",
+    "D": "Fannie Mae",
+    "Answer": "D"
+  },
+  {
+    "Id": 35,
+    "Question": "Cheddar cheese got its name from a village in what country?",
+    "A": "England",
+    "B": "France",
+    "C": "Switzerland",
+    "D": "Denmark",
+    "Answer": "A"
+  },
+  {
+    "Id": 36,
+    "Question": "Cheese is a necessary ingredient in which of these dishes?",
+    "A": "sushi",
+    "B": "french fries",
+    "C": "veal parmigiano",
+    "D": "chicken pot pie",
+    "Answer": "C"
+  },
+  {
+    "Id": 37,
+    "Question": "During what war did Francis Scott Key write the words to \u0027The Star-Spangled Banner\u0027?",
+    "A": "American Revolution",
+    "B": "War of 1812",
+    "C": "Civil War",
+    "D": "World War I",
+    "Answer": "B"
+  },
+  {
+    "Id": 38,
+    "Question": "During which war did US troops fight the Battle of New Orleans?",
+    "A": "American Revolution",
+    "B": "Civil War",
+    "C": "Mexican War",
+    "D": "War of 1812",
+    "Answer": "D"
+  },
+  {
+    "Id": 39,
+    "Question": "Each year in pro baseball, the player voted as the best fielder at his position wins what?",
+    "A": "a brand new car",
+    "B": "the Gold Glove",
+    "C": "the Silver Bat",
+    "D": "the Brass Baseball",
+    "Answer": "B"
+  },
+  {
+    "Id": 40,
+    "Question": "Elephant tusks are made of what material?",
+    "A": "coral",
+    "B": "ivory",
+    "C": "bone",
+    "D": "calcium",
+    "Answer": "B"
+  },
+  {
+    "Id": 41,
+    "Question": "Excluding wisdom teeth, how many adult teeth do humans have?",
+    "A": "28",
+    "B": "32",
+    "C": "35",
+    "D": "40",
+    "Answer": "A"
+  },
+  {
+    "Id": 42,
+    "Question": "For a man and woman on a date, \u0027dutch treat\u0027 means what?",
+    "A": "the man pays",
+    "B": "the woman pays",
+    "C": "the Dutch pay",
+    "D": "each pays their own way",
+    "Answer": "D"
+  },
+  {
+    "Id": 43,
+    "Question": "For what purpose would you use an awl?",
+    "A": "to shoot ducks",
+    "B": "to polish floors",
+    "C": "to make holes",
+    "D": "to weigh fruit",
+    "Answer": "C"
+  },
+  {
+    "Id": 44,
+    "Question": "From 1971 to 1997, the Democratic Republic of Congo was known as what?",
+    "A": "Zaire",
+    "B": "Angola",
+    "C": "Rhodesia",
+    "D": "Belgian Congo",
+    "Answer": "A"
+  },
+  {
+    "Id": 45,
+    "Question": "From what language does the term \u0027R.S.V.P.\u0027 originate?",
+    "A": "Russian",
+    "B": "Italian",
+    "C": "Portuguese",
+    "D": "French",
+    "Answer": "D"
+  },
+  {
+    "Id": 46,
+    "Question": "From whom does the Lutheran Church get its name?",
+    "A": "Martin Luther King Jr",
+    "B": "Martin Luther",
+    "C": "Luther Vandross",
+    "D": "Lex Luthor",
+    "Answer": "B"
+  },
+  {
+    "Id": 47,
+    "Question": "Gerry Adams is the president of what organization?",
+    "A": "Greenpeace",
+    "B": "NASCAR",
+    "C": "Sinn Fein",
+    "D": "PLO",
+    "Answer": "C"
+  },
+  {
+    "Id": 48,
+    "Question": "Girls of what religious community traditionally wear bonnets?",
+    "A": "Amish",
+    "B": "Sikh",
+    "C": "Roman Catholic",
+    "D": "Christian",
+    "Answer": "A"
+  },
+  {
+    "Id": 49,
+    "Question": "How are actors Charlie Sheen and Emilio Estevez related?",
+    "A": "they\u0027re cousins",
+    "B": "they\u0027re brothers",
+    "C": "they\u0027re father and son",
+    "D": "they\u0027re uncle and nephew",
+    "Answer": "B"
+  },
+  {
+    "Id": 50,
+    "Question": "How do you express 3/4 as a decimal?",
+    "A": ".25",
+    "B": ".50",
+    "C": ".75",
+    "D": ".90",
+    "Answer": "C"
+  },
+  {
+    "Id": 51,
+    "Question": "How is 4:00 pm expressed in military time?",
+    "A": "1600",
+    "B": "004",
+    "C": "0400 ",
+    "D": "4:00",
+    "Answer": "A"
+  },
+  {
+    "Id": 52,
+    "Question": "How is the Arabic numeral for \u00272\u0027 written?",
+    "A": "2",
+    "B": "II",
+    "C": "I",
+    "D": "ii",
+    "Answer": "A"
+  },
+  {
+    "Id": 53,
+    "Question": "How is the word \u0027ambulance\u0027 normally written on the front of American ambulances?",
+    "A": "in French",
+    "B": "in reverse",
+    "C": "in braille",
+    "D": "in gibberish",
+    "Answer": "B"
+  },
+  {
+    "Id": 54,
+    "Question": "How long is a single term in the US Senate?",
+    "A": "two years",
+    "B": "four years",
+    "C": "six years",
+    "D": "eight years",
+    "Answer": "C"
+  },
+  {
+    "Id": 55,
+    "Question": "How long is the time on an NBA shot clock?",
+    "A": "18 seconds",
+    "B": "24 seconds",
+    "C": "30 seconds",
+    "D": "35 seconds",
+    "Answer": "B"
+  },
+  {
+    "Id": 56,
+    "Question": "How many $100 bills does it take to equal one million dollars?",
+    "A": "one thousand",
+    "B": "five thousand",
+    "C": "ten thousand",
+    "D": "one hundred thousand",
+    "Answer": "C"
+  },
+  {
+    "Id": 57,
+    "Question": "How many axles does a standard automobile have?",
+    "A": "one",
+    "B": "two",
+    "C": "four",
+    "D": "eight",
+    "Answer": "B"
+  },
+  {
+    "Id": 58,
+    "Question": "How many digits are in a standard Visa credit card number?",
+    "A": "12",
+    "B": "15",
+    "C": "16",
+    "D": "20",
+    "Answer": "C"
+  },
+  {
+    "Id": 59,
+    "Question": "How many eyes does a Giraffe have?",
+    "A": "one",
+    "B": "two",
+    "C": "three",
+    "D": "four",
+    "Answer": "B"
+  },
+  {
+    "Id": 60,
+    "Question": "How many innings are there in a regular Major League Baseball game?",
+    "A": "seven",
+    "B": "eight",
+    "C": "nine",
+    "D": "ten",
+    "Answer": "C"
+  },
+  {
+    "Id": 61,
+    "Question": "How many keys are on a standard piano?",
+    "A": "20",
+    "B": "54",
+    "C": "88",
+    "D": "100",
+    "Answer": "C"
+  },
+  {
+    "Id": 62,
+    "Question": "How many men has actress Elizabeth Taylor been divorced from?",
+    "A": "five",
+    "B": "six",
+    "C": "seven",
+    "D": "eight",
+    "Answer": "C"
+  },
+  {
+    "Id": 63,
+    "Question": "How many ounces are in a pound?",
+    "A": "4",
+    "B": "12",
+    "C": "16",
+    "D": "32",
+    "Answer": "C"
+  },
+  {
+    "Id": 64,
+    "Question": "How many periods are there in an ice hockey game?",
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four",
+    "Answer": "C"
+  },
+  {
+    "Id": 65,
+    "Question": "How many quarts are there in a gallon?",
+    "A": "one",
+    "B": "two",
+    "C": "three",
+    "D": "four",
+    "Answer": "D"
+  },
+  {
+    "Id": 66,
+    "Question": "How many ribs are there in the human body?",
+    "A": "18",
+    "B": "24",
+    "C": "30",
+    "D": "42",
+    "Answer": "B"
+  },
+  {
+    "Id": 67,
+    "Question": "How many ships did Columbus set sail with on his initial voyage to the New World?",
+    "A": "Two",
+    "B": "Three",
+    "C": "Five",
+    "D": "Ten",
+    "Answer": "B"
+  },
+  {
+    "Id": 68,
+    "Question": "How many spikes are on the Statue of Liberty\u0027s crown?",
+    "A": "five",
+    "B": "seven",
+    "C": "nine",
+    "D": "thirteen",
+    "Answer": "B"
+  },
+  {
+    "Id": 69,
+    "Question": "How many stars are on the American flag?",
+    "A": "13",
+    "B": "48",
+    "C": "50",
+    "D": "51",
+    "Answer": "C"
+  },
+  {
+    "Id": 70,
+    "Question": "How many states were in the Confederate States of America?",
+    "A": "11",
+    "B": "13",
+    "C": "16",
+    "D": "22",
+    "Answer": "A"
+  },
+  {
+    "Id": 71,
+    "Question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
+    "A": "5 cents",
+    "B": "10 cents",
+    "C": "75 cents",
+    "D": "$125",
+    "Answer": "A"
+  },
+  {
+    "Id": 72,
+    "Question": "How long is Hanukkah?",
+    "A": "one day",
+    "B": "five days",
+    "C": "eight days",
+    "D": "two weeks",
+    "Answer": "C"
+  },
+  {
+    "Id": 73,
+    "Question": "Huffy, Schwinn and Raleigh are all brands of what?",
+    "A": "sportswear",
+    "B": "dishwashers",
+    "C": "cigarettes",
+    "D": "bicycles",
+    "Answer": "D"
+  },
+  {
+    "Id": 74,
+    "Question": "If a business files under Chapter 11 what is it doing?",
+    "A": "declaring bankruptcy",
+    "B": "selling stock",
+    "C": "buying a smaller",
+    "D": "company suing the government",
+    "Answer": "A"
+  },
+  {
+    "Id": 75,
+    "Question": "If a piece of music is in \u0027common time\u0027 how many quarter notes are there per measure?",
+    "A": "one",
+    "B": "four",
+    "C": "five",
+    "D": "ten",
+    "Answer": "B"
+  },
+  {
+    "Id": 76,
+    "Question": "If a ring has the number 925 stamped into it, it is most likely made of what material?",
+    "A": "platinum",
+    "B": "gold",
+    "C": "steel",
+    "D": "silver",
+    "Answer": "D"
+  },
+  {
+    "Id": 77,
+    "Question": "If Christmas Day is on a Saturday, then the following New Year\u0027s Day falls on what day of the week?",
+    "A": "Sunday",
+    "B": "Monday",
+    "C": "Friday",
+    "D": "Saturday",
+    "Answer": "D"
+  },
+  {
+    "Id": 78,
+    "Question": "If someone has cataracts, what part of their body might need an operation?",
+    "A": "ear",
+    "B": "hand",
+    "C": "eye",
+    "D": "knee",
+    "Answer": "C"
+  },
+  {
+    "Id": 79,
+    "Question": "If you are \u0027riding fakie\u0027 inside a \u0027half pipe\u0027 what are you probably doing?",
+    "A": "skiing",
+    "B": "biking",
+    "C": "snowboarding",
+    "D": "surfing",
+    "Answer": "C"
+  },
+  {
+    "Id": 80,
+    "Question": "If you are truly afraid of the dark, what do you suffer from?",
+    "A": "hypnophobia",
+    "B": "cryptophobia",
+    "C": "hadephobia",
+    "D": "nyctophobia",
+    "Answer": "D"
+  },
+  {
+    "Id": 81,
+    "Question": "If you are watching a Shavian play, who is the author?",
+    "A": "Shakespeare",
+    "B": "Aeschylus",
+    "C": "George Bernard Shaw",
+    "D": "Anton Chekhov",
+    "Answer": "C"
+  },
+  {
+    "Id": 82,
+    "Question": "If you ask for \u0027gai\u0027 at a Thai restaurant, what will you get?",
+    "A": "shrimp",
+    "B": "chicken",
+    "C": "beef",
+    "D": "pork",
+    "Answer": "B"
+  },
+  {
+    "Id": 83,
+    "Question": "If you dial \u0027411\u0027 on a telephone, who are you calling?",
+    "A": "the police",
+    "B": "the White House",
+    "C": "directory assistance",
+    "D": "Moviefone",
+    "Answer": "C"
+  },
+  {
+    "Id": 84,
+    "Question": "If you have a \u0027sawbuck\u0027 how much money do you have?",
+    "A": "$1",
+    "B": "$5",
+    "C": "$10",
+    "D": "$20",
+    "Answer": "C"
+  },
+  {
+    "Id": 85,
+    "Question": "If you work as a \u0027dolly grip\u0027 what business are you in?",
+    "A": "sheep farming",
+    "B": "film production",
+    "C": "construction",
+    "D": "moving",
+    "Answer": "B"
+  },
+  {
+    "Id": 86,
+    "Question": "In 1909, Frederick Cook claimed to be the first explorer to reach what location?",
+    "A": "Mount Everest",
+    "B": "Bermuda Triangle",
+    "C": "Atlantis",
+    "D": "North Pole",
+    "Answer": "D"
+  },
+  {
+    "Id": 87,
+    "Question": "In 1926, the Harlem Globetrotters basketball team was formed in what city?",
+    "A": "Boston",
+    "B": "Philadelphia",
+    "C": "Chicago",
+    "D": "New York City",
+    "Answer": "C"
+  },
+  {
+    "Id": 88,
+    "Question": "In 1960, Nazi official Adolph Eichmann was finally captured in what country?",
+    "A": "Brazil",
+    "B": "East Germany",
+    "C": "Argentina",
+    "D": "Paraguay",
+    "Answer": "C"
+  },
+  {
+    "Id": 89,
+    "Question": "In 1978, who became the youngest jockey ever to win horse racing\u0027s triple crown?",
+    "A": "Jerry Bailey",
+    "B": "Steve Cauthen",
+    "C": "Willie Shoemaker",
+    "D": "Pasquale Devito",
+    "Answer": "B"
+  },
+  {
+    "Id": 90,
+    "Question": "In 1986, Libyan leader Muammar Qaddafi drew a so-called \u0027Line of Death\u0027 over what body of water?",
+    "A": "Gulf of Sidra",
+    "B": "Gulf of Oman",
+    "C": "Red Sea",
+    "D": "Persian Gulf",
+    "Answer": "A"
+  },
+  {
+    "Id": 91,
+    "Question": "In a game with no wild cards, what is the highest possible poker hand?",
+    "A": "straight flush",
+    "B": "royal flush",
+    "C": "full house",
+    "D": "four of a kind",
+    "Answer": "B"
+  },
+  {
+    "Id": 92,
+    "Question": "In America, what is the main ingredient in pepperoni?",
+    "A": "fish",
+    "B": "pepper",
+    "C": "wheat",
+    "D": "meat",
+    "Answer": "D"
+  },
+  {
+    "Id": 93,
+    "Question": "In American football, how many points is a touchdown worth?",
+    "A": "two",
+    "B": "three",
+    "C": "six",
+    "D": "seven",
+    "Answer": "C"
+  },
+  {
+    "Id": 94,
+    "Question": "In an adult human, how long is the large intestine?",
+    "A": "one foot",
+    "B": "five feet",
+    "C": "twelve feet",
+    "D": "twenty feet",
+    "Answer": "B"
+  },
+  {
+    "Id": 95,
+    "Question": "In baseball, how many balls make a walk?",
+    "A": "one",
+    "B": "two",
+    "C": "three",
+    "D": "four",
+    "Answer": "D"
+  },
+  {
+    "Id": 96,
+    "Question": "In bowling, how many pins must you knock down to get a strike?",
+    "A": "zero",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "Answer": "C"
+  },
+  {
+    "Id": 97,
+    "Question": "In British currency, how many pence make a pound?",
+    "A": "10",
+    "B": "100",
+    "C": "500",
+    "D": "1000",
+    "Answer": "B"
+  },
+  {
+    "Id": 98,
+    "Question": "In computer terminology, what does the acronym \u0027FTP\u0027 stand for?",
+    "A": "file transfer protocol",
+    "B": "full time portal",
+    "C": "full text processor",
+    "D": "free to print",
+    "Answer": "A"
+  },
+  {
+    "Id": 99,
+    "Question": "In computer terminology, what does the acronym \u0027ISP\u0027 stand for?",
+    "A": "Individual Site Privacy",
+    "B": "Investment Stability Plan",
+    "C": "Internal Security Position",
+    "D": "Internet Service Provider",
+    "Answer": "D"
+  },
+  {
+    "Id": 100,
+    "Question": "In cooking, the term \u0027au gratin\u0027 is sometimes used to describe a dish with what topping?",
+    "A": "cheese",
+    "B": "fruit",
+    "C": "gravy",
+    "D": "whipped cream",
+    "Answer": "A"
+  },
+  {
+    "Id": 101,
+    "Question": "In golf, what is one stroke over par called?",
+    "A": "eagle",
+    "B": "bogey",
+    "C": "dormy",
+    "D": "birdie",
+    "Answer": "B"
+  },
+  {
+    "Id": 102,
+    "Question": "In Greek mythology, what is the name of Zeus\u0027 father?",
+    "A": "Apollo",
+    "B": "Cronus",
+    "C": "Prometheus",
+    "D": "Hercules",
+    "Answer": "B"
+  },
+  {
+    "Id": 103,
+    "Question": "In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?",
+    "A": "triple action",
+    "B": "trifecta",
+    "C": "exacta",
+    "D": "triple crown",
+    "Answer": "B"
+  },
+  {
+    "Id": 104,
+    "Question": "In ice hockey, which of the following is not a penalty?",
+    "A": "hooking",
+    "B": "charging",
+    "C": "carving",
+    "D": "butt-ending",
+    "Answer": "C"
+  },
+  {
+    "Id": 105,
+    "Question": "In Mister Rogers\u0027 theme song, what does he ask you to be?",
+    "A": "his cook",
+    "B": "his student",
+    "C": "his neighbor",
+    "D": "all you can be",
+    "Answer": "C"
+  },
+  {
+    "Id": 106,
+    "Question": "In mobster lingo, if you \u0027sing like a canary\u0027 what are you doing?",
+    "A": "impersonating Sinatra",
+    "B": "talking to the cops",
+    "C": "killing an enemy",
+    "D": "betting on horses",
+    "Answer": "B"
+  },
+  {
+    "Id": 107,
+    "Question": "In soccer, which player is allowed to use his or her hands in the field of play?",
+    "A": "midfielder",
+    "B": "center",
+    "C": "sweeper",
+    "D": "goalkeeper",
+    "Answer": "D"
+  },
+  {
+    "Id": 108,
+    "Question": "In the 1960s \u0027Batman\u0027 TV series, who was not a guest villain?",
+    "A": "The Minstrel",
+    "B": "The Archer",
+    "C": "The Bookworm",
+    "D": "The Squeegee Guy",
+    "Answer": "D"
+  },
+  {
+    "Id": 109,
+    "Question": "In the 1976 remake of the classic film \u0027King Kong\u0027 what New York landmark does the giant ape climb?",
+    "A": "Statue of Liberty",
+    "B": "Empire State Building",
+    "C": "World Trade Center",
+    "D": "Chrysler Building",
+    "Answer": "C"
+  },
+  {
+    "Id": 110,
+    "Question": "In the 1992 animated film \u0027Aladdin\u0027 what device does the hero use to travel from place to place?",
+    "A": "talking car",
+    "B": "winged horse",
+    "C": "magic carpet",
+    "D": "hot air balloon",
+    "Answer": "C"
+  },
+  {
+    "Id": 111,
+    "Question": "In the Arthurian legend, who is married to Guinevere?",
+    "A": "Merlin",
+    "B": "King Arthur",
+    "C": "Lancelot",
+    "D": "Camelot",
+    "Answer": "B"
+  },
+  {
+    "Id": 112,
+    "Question": "In the card game blackjack, how much are a queen and a king worth-together?",
+    "A": "11",
+    "B": "15",
+    "C": "20",
+    "D": "21",
+    "Answer": "C"
+  },
+  {
+    "Id": 113,
+    "Question": "In the children\u0027s game, what color is \u0027Rover\u0027?",
+    "A": "green",
+    "B": "black",
+    "C": "red",
+    "D": "blue",
+    "Answer": "C"
+  },
+  {
+    "Id": 114,
+    "Question": "In the classic song \u0027Take Me Out to the Ballgame\u0027 for whom do we \u0027root root root\u0027?",
+    "A": "the umpire",
+    "B": "the home team",
+    "C": "the bat boy",
+    "D": "Mighty Casey",
+    "Answer": "B"
+  },
+  {
+    "Id": 115,
+    "Question": "In the comic strip \u0027Peanuts\u0027 what is Schroeder known for doing?",
+    "A": "Dancing",
+    "B": "playing football",
+    "C": "playing the piano",
+    "D": "Flying an imaginary plane",
+    "Answer": "C"
+  },
+  {
+    "Id": 116,
+    "Question": "In the famous ballet \u0027The Nutcracker\u0027 who does the hero defeat?",
+    "A": "Sugar Plum Fairy",
+    "B": "Rat King",
+    "C": "Snow Queen",
+    "D": "Marzipan",
+    "Answer": "B"
+  },
+  {
+    "Id": 117,
+    "Question": "In the famous baseball poem \u0027Casey at the Bat\u0027 Casey plays for the team from what town?",
+    "A": "Stormfield",
+    "B": "Fog City",
+    "C": "Mudville",
+    "D": "Waterlog",
+    "Answer": "C"
+  },
+  {
+    "Id": 118,
+    "Question": "In the film \u0027Easy Rider\u0027 what emblem is on the back of Peter Fonda\u0027s leather jacket?",
+    "A": "peace symbol",
+    "B": "American flag",
+    "C": "two white doves",
+    "D": "Harley-Davidson logo",
+    "Answer": "B"
+  },
+  {
+    "Id": 119,
+    "Question": "In the film \u0027The Talented Mr. Ripley\u0027 who plays Mr. Ripley?",
+    "A": "Jude Law",
+    "B": "Matt Damon",
+    "C": "Dustin Hoffman",
+    "D": "Ben Affleck",
+    "Answer": "B"
+  },
+  {
+    "Id": 120,
+    "Question": "In the Jimmy Buffet song \u0027Margaritaville\u0027 what is the singer searching for?",
+    "A": "a lime",
+    "B": "a shaker of salt",
+    "C": "his car keys",
+    "D": "the bartender",
+    "Answer": "B"
+  },
+  {
+    "Id": 121,
+    "Question": "In the movie \u0027Austin Powers: The Spy Who Shagged Me\u0027 what is the name of Dr. Evil\u0027s diminitive clone?",
+    "A": "Little Buddy",
+    "B": "Mini-Me",
+    "C": "Small Fry",
+    "D": "Dr. Evil Jr",
+    "Answer": "B"
+  },
+  {
+    "Id": 122,
+    "Question": "In the movie \u0027Star Wars\u0027 what kind of creature is Chewbacca?",
+    "A": "Woolie",
+    "B": "Boobie",
+    "C": "Wookie",
+    "D": "Klingon",
+    "Answer": "C"
+  },
+  {
+    "Id": 123,
+    "Question": "In the novel \u0027Around the World in 80 Days\u0027 Phileas Fogg\u0027s faithful valet is named what?",
+    "A": "Sancho Panza",
+    "B": "Passepartout",
+    "C": "Renfield",
+    "D": "Savoir Faire",
+    "Answer": "B"
+  },
+  {
+    "Id": 124,
+    "Question": "In the novel \u0027The Adventures of Tom Sawyer\u0027 what is the name of Tom\u0027s sweetheart?",
+    "A": "Polly Finn",
+    "B": "Becky Thatcher",
+    "C": "Nancy Drew",
+    "D": "Emma Bovary",
+    "Answer": "B"
+  },
+  {
+    "Id": 125,
+    "Question": "In the original \u0027Get Smart\u0027 TV series, what is agent Maxwell Smart\u0027s code name?",
+    "A": "Agent 86",
+    "B": "Agent 99",
+    "C": "Larrabee",
+    "D": "The Chief",
+    "Answer": "A"
+  },
+  {
+    "Id": 126,
+    "Question": "In the sci-fi movie \u0027Fantastic Voyage\u0027 where do the voyagers travel?",
+    "A": "through outer space",
+    "B": "through a human body",
+    "C": "to the ocean floor",
+    "D": "to the center of the earth",
+    "Answer": "B"
+  },
+  {
+    "Id": 127,
+    "Question": "In the story \u0027Jack and the Beanstalk\u0027 what does Jack trade to get the magic beans?",
+    "A": "a cow",
+    "B": "a hat",
+    "C": "a harp",
+    "D": "a goose",
+    "Answer": "A"
+  },
+  {
+    "Id": 128,
+    "Question": "In the television network abbreviation \u0027ABC\u0027 what does the \u0027A\u0027 stand for?",
+    "A": "Artistic",
+    "B": "Audio",
+    "C": "American",
+    "D": "Adult",
+    "Answer": "C"
+  },
+  {
+    "Id": 129,
+    "Question": "In the phrase \u0027Y2K\u0027 what does \u0027K\u0027 stand for?",
+    "A": "millennium",
+    "B": "computer code",
+    "C": "catastrophe",
+    "D": "thousand",
+    "Answer": "D"
+  },
+  {
+    "Id": 130,
+    "Question": "In the United States, what is the first day of spring?",
+    "A": "February 21",
+    "B": "March 21",
+    "C": "April 21",
+    "D": "May 21",
+    "Answer": "B"
+  },
+  {
+    "Id": 131,
+    "Question": "In traditional English puppet shows, who is married to the character Punch?",
+    "A": "Debbie",
+    "B": "Victoria",
+    "C": "Judy",
+    "D": "Barbara",
+    "Answer": "C"
+  },
+  {
+    "Id": 132,
+    "Question": "In what city is TV\u0027s \u0027The Mary Tyler Moore Show\u0027 set?",
+    "A": "Dallas",
+    "B": "Chicago",
+    "C": "New York",
+    "D": "Minneapolis",
+    "Answer": "D"
+  },
+  {
+    "Id": 133,
+    "Question": "In what city would you find people studying art and design at the Fashion Institute of Technology?",
+    "A": "Paris",
+    "B": "New York",
+    "C": "Los Angeles",
+    "D": "Melbourne",
+    "Answer": "B"
+  },
+  {
+    "Id": 134,
+    "Question": "In what country are police officers referred to as \u0027bobbies\u0027?",
+    "A": "Israel",
+    "B": "Greece",
+    "C": "England",
+    "D": "France",
+    "Answer": "C"
+  },
+  {
+    "Id": 135,
+    "Question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
+    "A": "United States",
+    "B": "Sweden",
+    "C": "Israel",
+    "D": "Turkey",
+    "Answer": "B"
+  },
+  {
+    "Id": 136,
+    "Question": "In what country did Pokemon originate?",
+    "A": "France",
+    "B": "Hungary",
+    "C": "Japan",
+    "D": "Canada",
+    "Answer": "C"
+  },
+  {
+    "Id": 137,
+    "Question": "In what decade did Israel become an independent state?",
+    "A": "1920s",
+    "B": "1940s",
+    "C": "1950s",
+    "D": "1960s",
+    "Answer": "B"
+  },
+  {
+    "Id": 138,
+    "Question": "In what decade was the Hula-Hoop invented?",
+    "A": "1890s",
+    "B": "1920s",
+    "C": "1950s",
+    "D": "1970s",
+    "Answer": "C"
+  },
+  {
+    "Id": 139,
+    "Question": "In what forest did Robin Hood live?",
+    "A": "Black Forest",
+    "B": "Petrified Forest",
+    "C": "Nottingham Forest",
+    "D": "Sherwood Forest",
+    "Answer": "D"
+  },
+  {
+    "Id": 140,
+    "Question": "In what restaurant can you order a Grand Slam breakfast?",
+    "A": "Denny\u0027s",
+    "B": "McDonald\u0027s",
+    "C": "Burger King",
+    "D": "Hardee\u0027s",
+    "Answer": "A"
+  },
+  {
+    "Id": 141,
+    "Question": "In what sport do athletes compete for the Walker Cup?",
+    "A": "cricket",
+    "B": "tennis",
+    "C": "squash",
+    "D": "golf",
+    "Answer": "D"
+  },
+  {
+    "Id": 142,
+    "Question": "In what sport do you find \u0027steel cage\u0027 matches?",
+    "A": "boxing",
+    "B": "fencing",
+    "C": "pro wrestling",
+    "D": "college basketball",
+    "Answer": "C"
+  },
+  {
+    "Id": 143,
+    "Question": "In what state is the 1999 movie \u0027Magnolia\u0027 set?",
+    "A": "California",
+    "B": "South Carolina",
+    "C": "Georgia",
+    "D": "Texas",
+    "Answer": "A"
+  },
+  {
+    "Id": 144,
+    "Question": "In what U.S. city can you find the Basketball Hall of Fame?",
+    "A": "Canton, Ohio",
+    "B": "Cooperstown, New York",
+    "C": "Springfield, Massachusetts",
+    "D": "Lawrence, Kansas",
+    "Answer": "C"
+  },
+  {
+    "Id": 145,
+    "Question": "In what year did the Great Depression begin?",
+    "A": "1884",
+    "B": "1929",
+    "C": "1953",
+    "D": "1975",
+    "Answer": "B"
+  },
+  {
+    "Id": 146,
+    "Question": "In what year did the United States last win an Olympic gold medal in men\u0027s ice hockey?",
+    "A": "1976",
+    "B": "1980",
+    "C": "1984",
+    "D": "1988",
+    "Answer": "B"
+  },
+  {
+    "Id": 147,
+    "Question": "In which of the following bands did Jimmy Page not play guitar?",
+    "A": "Bad Company",
+    "B": "The Firm",
+    "C": "Led Zeppelin",
+    "D": "The Yardbirds",
+    "Answer": "A"
+  },
+  {
+    "Id": 148,
+    "Question": "In which of these sports do competitors use a \u0027funny car\u0027?",
+    "A": "supercross",
+    "B": "dogsledding",
+    "C": "gymnastics",
+    "D": "drag racing",
+    "Answer": "D"
+  },
+  {
+    "Id": 149,
+    "Question": "In what war did Joan of Arc fight?",
+    "A": "Hundred Years\u0027 War",
+    "B": "Franco-Prussian War",
+    "C": "French Revolution",
+    "D": "French and Indian War",
+    "Answer": "A"
+  },
+  {
+    "Id": 150,
+    "Question": "Including the bottom, how many sides are on a square-based pyramid?",
+    "A": "three",
+    "B": "four",
+    "C": "five",
+    "D": "six",
+    "Answer": "C"
+  },
+  {
+    "Id": 151,
+    "Question": "Into what body of water does the Rhone River flow?",
+    "A": "Atlantic Ocean",
+    "B": "Caspian Sea",
+    "C": "North Sea",
+    "D": "Mediterranean Sea",
+    "Answer": "D"
+  },
+  {
+    "Id": 152,
+    "Question": "John D. Rockefeller made his fortune in what industry?",
+    "A": "automobile ",
+    "B": "oil",
+    "C": "steel",
+    "D": "railroad",
+    "Answer": "B"
+  },
+  {
+    "Id": 153,
+    "Question": "Modern computer microchips are primarily composed of what element?",
+    "A": "Sodium",
+    "B": "Silicon",
+    "C": "Aluminum",
+    "D": "Silver",
+    "Answer": "B"
+  },
+  {
+    "Id": 154,
+    "Question": "Mohair is made from the fleece of what animal?",
+    "A": "camel",
+    "B": "llama",
+    "C": "goat",
+    "D": "mole",
+    "Answer": "C"
+  },
+  {
+    "Id": 155,
+    "Question": "\u0027Nature, Mr. Allnut, is what we are put in this world to rise above\u0027 is a line from what film?",
+    "A": "\u0027Citizen Kane\u0027",
+    "B": "\u0027The African Queen\u0027",
+    "C": "\u0027The Deer Hunter\u0027",
+    "D": "\u0027Adam\u0027s Rib\u0027",
+    "Answer": "B"
+  },
+  {
+    "Id": 156,
+    "Question": "On a set of jumper cables, what color designates the negative connector?",
+    "A": "black",
+    "B": "red",
+    "C": "orange",
+    "D": "blue",
+    "Answer": "A"
+  },
+  {
+    "Id": 157,
+    "Question": "On average, what length of time passes between high tides?",
+    "A": "3 hours, 25 minutes",
+    "B": "6 hours, 25 minutes",
+    "C": "12 hours, 25 minutes",
+    "D": "24 hours, 25 minutes",
+    "Answer": "C"
+  },
+  {
+    "Id": 158,
+    "Question": "On the TV show \u0027CHiPs\u0027 what was Officer Frank Poncherello\u0027s nickname?",
+    "A": "Franky",
+    "B": "Ponch",
+    "C": "Chipper",
+    "D": "Hot Dog",
+    "Answer": "B"
+  },
+  {
+    "Id": 159,
+    "Question": "On the TV show \u0027Hill Street Blues\u0027 what is Joyce Davenport\u0027s nickname for Captain Frank Furillo?",
+    "A": "Furry Monster",
+    "B": "Pizza Man",
+    "C": "Snookums",
+    "D": "Baby Cakes",
+    "Answer": "B"
+  },
+  {
+    "Id": 160,
+    "Question": "On TV\u0027s \u0027Seinfeld\u0027 what type of doctor did Mr. Costanza go to when he sat on \u0027fusilli Jerry\u0027?",
+    "A": "ophthalmologist",
+    "B": "cardiologist",
+    "C": "neurologist",
+    "D": "proctologist",
+    "Answer": "D"
+  },
+  {
+    "Id": 161,
+    "Question": "On Valentine\u0027s Day 2000, NASA\u0027s NEAR spacecraft began a yearlong orbit of what asteroid?",
+    "A": "Eros",
+    "B": "Cupid",
+    "C": "Aphrodite",
+    "D": "Venus",
+    "Answer": "A"
+  },
+  {
+    "Id": 162,
+    "Question": "On what continent can you find tigers in the wild?",
+    "A": "Africa",
+    "B": "Asia",
+    "C": "Europe",
+    "D": "South America",
+    "Answer": "B"
+  },
+  {
+    "Id": 163,
+    "Question": "On what body part should you wear a babushka?",
+    "A": "head",
+    "B": "hands",
+    "C": "foot",
+    "D": "legs",
+    "Answer": "A"
+  },
+  {
+    "Id": 164,
+    "Question": "On which part of a car would you find the \u0027caliper\u0027?",
+    "A": "battery",
+    "B": "engine",
+    "C": "radiator",
+    "D": "brakes",
+    "Answer": "D"
+  },
+  {
+    "Id": 165,
+    "Question": "Paper will burn at approximately what temperature, in Fahrenheit?",
+    "A": "98.6 degrees",
+    "B": "212.5 degrees",
+    "C": "398.5 degrees",
+    "D": "451 degrees",
+    "Answer": "D"
+  },
+  {
+    "Id": 166,
+    "Question": "People are supposed to drive on the left-hand side of the road in which country?",
+    "A": "France",
+    "B": "Italy",
+    "C": "England",
+    "D": "Germany",
+    "Answer": "C"
+  },
+  {
+    "Id": 167,
+    "Question": "Phoebe, Dione and Helene are moons of what planet?",
+    "A": "Jupiter",
+    "B": "Saturn",
+    "C": "Neptune",
+    "D": "Pluto",
+    "Answer": "B"
+  },
+  {
+    "Id": 168,
+    "Question": "Pop icon Tiny Tim was famous for playing what musical instrument?",
+    "A": "ukulele",
+    "B": "kazoo",
+    "C": "accordion",
+    "D": "fiddle",
+    "Answer": "A"
+  },
+  {
+    "Id": 169,
+    "Question": "Someone would most likely contract salmonella poisoning from eating which of the following?",
+    "A": "carrots",
+    "B": "chicken",
+    "C": "tofu",
+    "D": "rice",
+    "Answer": "B"
+  },
+  {
+    "Id": 170,
+    "Question": "Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
+    "A": "Paul McCartney",
+    "B": "John Lennon",
+    "C": "George Harrison",
+    "D": "Ringo Starr",
+    "Answer": "A"
+  },
+  {
+    "Id": 171,
+    "Question": "The American patriot Paul Revere was named for his father, whose original name was what?",
+    "A": "John Paul Revere",
+    "B": "Paul Silver",
+    "C": "Apollos Rivoire",
+    "D": "Paolo Reverini",
+    "Answer": "C"
+  },
+  {
+    "Id": 172,
+    "Question": "The Original Apple iMac computer was available in all of the following colors except which?",
+    "A": "Tangerine",
+    "B": "Strawberry",
+    "C": "Kiwi",
+    "D": "Grape",
+    "Answer": "C"
+  },
+  {
+    "Id": 173,
+    "Question": "The \u0027Arkansas toothpick\u0027 is better known by what name?",
+    "A": "Scottie Pippen",
+    "B": "spare rib",
+    "C": "pinkie finger",
+    "D": "Bowie knife",
+    "Answer": "D"
+  },
+  {
+    "Id": 174,
+    "Question": "The British dish \u0027bangers and mash\u0027 is made up of sausage and what?",
+    "A": "eggs",
+    "B": "bacon",
+    "C": "liver",
+    "D": "potatoes",
+    "Answer": "D"
+  },
+  {
+    "Id": 175,
+    "Question": "The common term for someone who has difficulty seeing objects in the distance is what?",
+    "A": "farsighted",
+    "B": "nearsighted",
+    "C": "hindsighted",
+    "D": "hypermetropic",
+    "Answer": "B"
+  },
+  {
+    "Id": 176,
+    "Question": "The dance known as the \u0027fandango\u0027 is of what origin?",
+    "A": "Australian",
+    "B": "African",
+    "C": "Native American",
+    "D": "Spanish",
+    "Answer": "D"
+  },
+  {
+    "Id": 177,
+    "Question": "The disco band ABBA comes from what country?",
+    "A": "Norway",
+    "B": "Sweden",
+    "C": "Switzerland",
+    "D": "The Netherlands",
+    "Answer": "B"
+  },
+  {
+    "Id": 178,
+    "Question": "The film \u0027Stand By Me\u0027 is based on a novel by what author?",
+    "A": "Anne Proulx",
+    "B": "Stephen King",
+    "C": "Dean Koontz",
+    "D": "Frank McCourt",
+    "Answer": "B"
+  },
+  {
+    "Id": 179,
+    "Question": "The first commercial radio station was located in what city?",
+    "A": "Chicago",
+    "B": "Austin",
+    "C": "Pittsburgh",
+    "D": "Cleveland",
+    "Answer": "C"
+  },
+  {
+    "Id": 180,
+    "Question": "The first sound recording to be made and reproduced was a recitation of what nursery rhyme?",
+    "A": "\u0027Humpty Dumpty\u0027",
+    "B": "\u0027Mary Had a Little Lamb\u0027",
+    "C": "\u0027Jack Be Nimble\u0027",
+    "D": "\u0027Home, Sweet Home\u0027",
+    "Answer": "B"
+  },
+  {
+    "Id": 181,
+    "Question": "The majority of calcium in the human body is found where?",
+    "A": "hair",
+    "B": "blood",
+    "C": "bones",
+    "D": "digestive tract",
+    "Answer": "C"
+  },
+  {
+    "Id": 182,
+    "Question": "The phrase \u0027hospital corners\u0027 refers to what?",
+    "A": "bed sheets",
+    "B": "paint",
+    "C": "landscaping",
+    "D": "scissors",
+    "Answer": "A"
+  },
+  {
+    "Id": 183,
+    "Question": "The process of drilling holes in the skull is called what?",
+    "A": "bifurcation",
+    "B": "trepanation",
+    "C": "aeronomy",
+    "D": "skullduggery",
+    "Answer": "B"
+  },
+  {
+    "Id": 184,
+    "Question": "The sport of judo comes from what Asian country?",
+    "A": "Japan",
+    "B": "Vietnam",
+    "C": "Laos",
+    "D": "Philippines",
+    "Answer": "A"
+  },
+  {
+    "Id": 185,
+    "Question": "The Strauss family of composers popularized what dance?",
+    "A": "waltz",
+    "B": "tango",
+    "C": "fox-trot",
+    "D": "square dance",
+    "Answer": "A"
+  },
+  {
+    "Id": 186,
+    "Question": "The term \u0027chili con carne\u0027 refers to chili with what?",
+    "A": "beans ",
+    "B": "meat",
+    "C": "cheese",
+    "D": "chili peppers",
+    "Answer": "B"
+  },
+  {
+    "Id": 187,
+    "Question": "The TV show \u0027House of Style\u0027 airs on what network?",
+    "A": "E",
+    "B": "WB",
+    "C": "MTV",
+    "D": "Home Shopping Network",
+    "Answer": "C"
+  },
+  {
+    "Id": 188,
+    "Question": "To create a tapestry, one must traditionally engage in what activity?",
+    "A": "weaving",
+    "B": "sculpting",
+    "C": "baking",
+    "D": "singing",
+    "Answer": "A"
+  },
+  {
+    "Id": 189,
+    "Question": "To make an international telephone call from within the US, what are the first numbers you should dial?",
+    "A": "011",
+    "B": "101",
+    "C": "888",
+    "D": "911",
+    "Answer": "A"
+  },
+  {
+    "Id": 190,
+    "Question": "To ward off bad luck, what do many people do to wood?",
+    "A": "knock on it",
+    "B": "kiss it",
+    "C": "thank it",
+    "D": "scratch it",
+    "Answer": "A"
+  },
+  {
+    "Id": 191,
+    "Question": "What actress starred on \u0027Charlie\u0027s Angels\u0027 for the show\u0027s entire run?",
+    "A": "Cheryl Ladd",
+    "B": "Farrah Fawcett",
+    "C": "Jaclyn Smith",
+    "D": "Kate Jackson",
+    "Answer": "C"
+  },
+  {
+    "Id": 192,
+    "Question": "What animal is considered sacred in India?",
+    "A": "sheep",
+    "B": "cow",
+    "C": "chicken",
+    "D": "dog",
+    "Answer": "B"
+  },
+  {
+    "Id": 193,
+    "Question": "What animal is used to make lard?",
+    "A": "pig",
+    "B": "cow",
+    "C": "snake",
+    "D": "chicken",
+    "Answer": "A"
+  },
+  {
+    "Id": 194,
+    "Question": "What animal represents the year 2000 on the Chinese calendar?",
+    "A": "dragon",
+    "B": "rabbit",
+    "C": "tiger",
+    "D": "monkey",
+    "Answer": "A"
+  },
+  {
+    "Id": 195,
+    "Question": "What animated character has a crush on the Little Red Haired Girl?",
+    "A": "Richie Rich",
+    "B": "Charlie Brown",
+    "C": "Bugs Bunny",
+    "D": "Jonny Quest",
+    "Answer": "B"
+  },
+  {
+    "Id": 196,
+    "Question": "What are fans of the TV show \u0027Mystery Science Theater 3000\u0027 known as?",
+    "A": "Mysterians",
+    "B": "MiSTies",
+    "C": "\u0027Bot Brigade",
+    "D": "Gizmonics",
+    "Answer": "B"
+  },
+  {
+    "Id": 197,
+    "Question": "What are the dimensions of a \u0027letter size\u0027 piece of paper?",
+    "A": "3 1/2 x 5 inches",
+    "B": "5 x 10 inches",
+    "C": "8 1/2 x 11 inches",
+    "D": "11 x 17 inches",
+    "Answer": "C"
+  },
+  {
+    "Id": 198,
+    "Question": "What are the names of Donald Duck\u0027s three nephews?",
+    "A": "Quick, Quack, Quock",
+    "B": "Alvin, Simon, Theodore",
+    "C": "Robbie, Chip, Ernie",
+    "D": "Huey, Dewey, Louie",
+    "Answer": "D"
+  },
+  {
+    "Id": 199,
+    "Question": "What are the names of the two primary M\u0026M\u0027s spokes-candies?",
+    "A": "Peanut and Plain",
+    "B": "Red and Yellow",
+    "C": "Mort and Marty",
+    "D": "They don\u0027t have names",
+    "Answer": "B"
+  },
+  {
+    "Id": 200,
+    "Question": "What are the plastic boxes that hold compact discs called?",
+    "A": "frame cases",
+    "B": "jewel cases",
+    "C": "slip cases",
+    "D": "wafer boxes",
+    "Answer": "B"
+  },
+  {
+    "Id": 201,
+    "Question": "What are the Smothers Brothers\u0027 first names?",
+    "A": "Frank and Bill",
+    "B": "Tom and Dick",
+    "C": "Dave and George",
+    "D": "Ed and Pete",
+    "Answer": "B"
+  },
+  {
+    "Id": 202,
+    "Question": "What article of clothing best describes a \u0027pashmina\u0027?",
+    "A": "shoes",
+    "B": "pants",
+    "C": "scarf",
+    "D": "underwear",
+    "Answer": "C"
+  },
+  {
+    "Id": 203,
+    "Question": "What automobile company makes the Sonata?",
+    "A": "Toyota",
+    "B": "Honda",
+    "C": "Subaru",
+    "D": "Hyundai",
+    "Answer": "D"
+  },
+  {
+    "Id": 204,
+    "Question": "What biological process replicates DNA?",
+    "A": "molting",
+    "B": "mitosis",
+    "C": "diffusion",
+    "D": "peristalsis",
+    "Answer": "B"
+  },
+  {
+    "Id": 205,
+    "Question": "What car company once manufactured and sold the \u0027Datsun\u0027 line of automobiles?",
+    "A": "Nissan",
+    "B": "Mazda",
+    "C": "Toyota",
+    "D": "Daihatsu",
+    "Answer": "A"
+  },
+  {
+    "Id": 206,
+    "Question": "What cartoon character traveled in a time machine with Mr. Peabody?",
+    "A": "Rocky",
+    "B": "Jonny Quest",
+    "C": "Underdog",
+    "D": "Sherman",
+    "Answer": "D"
+  },
+  {
+    "Id": 207,
+    "Question": "What character did Woody replace on the TV show \u0027Cheers\u0027?",
+    "A": "Coach",
+    "B": "Diane",
+    "C": "Norm",
+    "D": "Frasier",
+    "Answer": "A"
+  },
+  {
+    "Id": 208,
+    "Question": "What chemical do people frequently use to bleach hair?",
+    "A": "folic acid",
+    "B": "hydrogen peroxide",
+    "C": "sodium chloride",
+    "D": "nitrous oxide",
+    "Answer": "B"
+  },
+  {
+    "Id": 209,
+    "Question": "What children\u0027s storybook character believes that the sky is falling?",
+    "A": "Chicken Little",
+    "B": "Curious George",
+    "C": "Jack Sprat",
+    "D": "Tom Thumb",
+    "Answer": "A"
+  },
+  {
+    "Id": 210,
+    "Question": "What children\u0027s TV character is known as \u0027Da Niao\u0027 in China?",
+    "A": "Barney",
+    "B": "Big Bird",
+    "C": "Mickey Mouse",
+    "D": "Tinky Winky",
+    "Answer": "B"
+  },
+  {
+    "Id": 211,
+    "Question": "What city did the Beatles originally call home?",
+    "A": "London",
+    "B": "Leeds",
+    "C": "Liverpool",
+    "D": "Manchester",
+    "Answer": "C"
+  },
+  {
+    "Id": 212,
+    "Question": "What city is known as \u0027the rubber capital of the world\u0027?",
+    "A": "Omaha, Nebraska",
+    "B": "Rockford, Illinois",
+    "C": "Grand Rapids, Michigan",
+    "D": "Akron, Ohio",
+    "Answer": "D"
+  },
+  {
+    "Id": 213,
+    "Question": "What city\u0027s airport uses the code ORD?",
+    "A": "Chicago",
+    "B": "Orlando",
+    "C": "New York City",
+    "D": "Portland",
+    "Answer": "A"
+  },
+  {
+    "Id": 214,
+    "Question": "What city\u0027s residents are known as \u0027Knickerbockers\u0027?",
+    "A": "Boston",
+    "B": "Philadelphia",
+    "C": "New York City",
+    "D": "London",
+    "Answer": "C"
+  },
+  {
+    "Id": 215,
+    "Question": "What color is a ruby?",
+    "A": "red",
+    "B": "black",
+    "C": "yellow",
+    "D": "blue",
+    "Answer": "A"
+  },
+  {
+    "Id": 216,
+    "Question": "What color is cartoon character Marge Simpson\u0027s hair?",
+    "A": "yellow",
+    "B": "purple",
+    "C": "blue",
+    "D": "brown",
+    "Answer": "C"
+  },
+  {
+    "Id": 217,
+    "Question": "What color is the masthead of USA Today\u0027s \u0027Life\u0027 section?",
+    "A": "green",
+    "B": "purple",
+    "C": "red",
+    "D": "blue",
+    "Answer": "B"
+  },
+  {
+    "Id": 218,
+    "Question": "What color is Uncle Sam\u0027s goatee?",
+    "A": "brown",
+    "B": "black ",
+    "C": "white",
+    "D": "dishwater blond",
+    "Answer": "C"
+  },
+  {
+    "Id": 219,
+    "Question": "What colors are the two circles in the MasterCard logo?",
+    "A": "pink and orange",
+    "B": "blue and green",
+    "C": "black and white",
+    "D": "red and yellow",
+    "Answer": "D"
+  },
+  {
+    "Id": 220,
+    "Question": "What color is Pepto-Bismol liquid?",
+    "A": "pink",
+    "B": "blue",
+    "C": "clear",
+    "D": "green",
+    "Answer": "A"
+  },
+  {
+    "Id": 221,
+    "Question": "What company makes Oreo cookies?",
+    "A": "General Mills",
+    "B": "Nabisco",
+    "C": "Keebler",
+    "D": "Kraft",
+    "Answer": "B"
+  },
+  {
+    "Id": 222,
+    "Question": "What company makes perfumes called \u0027Beautiful\u0027 and \u0027Pleasures\u0027?",
+    "A": "Estee Lauder",
+    "B": "Ralph Lauren",
+    "C": "Elizabeth Arden",
+    "D": "Calvin Klein",
+    "Answer": "A"
+  },
+  {
+    "Id": 223,
+    "Question": "What condition is caused by malfunctioning sebaceous glands?",
+    "A": "bad breath",
+    "B": "shingles",
+    "C": "acne",
+    "D": "carpal tunnel syndrome",
+    "Answer": "C"
+  },
+  {
+    "Id": 224,
+    "Question": "What corporation was founded by a candlemaker and a soapmaker?",
+    "A": "Simon \u0026 Schuster",
+    "B": "Procter \u0026 Gamble",
+    "C": "Johnson \u0026 Johnson",
+    "D": "Smith \u0026 Wesson",
+    "Answer": "B"
+  },
+  {
+    "Id": 225,
+    "Question": "What country does Bordeaux wine come from?",
+    "A": "France",
+    "B": "Spain",
+    "C": "Australia",
+    "D": "United States",
+    "Answer": "A"
+  },
+  {
+    "Id": 226,
+    "Question": "What country gave us the fashionable headgear called the beret?",
+    "A": "Switzerland",
+    "B": "China",
+    "C": "Mexico",
+    "D": "France",
+    "Answer": "D"
+  },
+  {
+    "Id": 227,
+    "Question": "What country is famous for making wooden shoes?",
+    "A": "Russia",
+    "B": "Thailand",
+    "C": "The Netherlands",
+    "D": "Australia",
+    "Answer": "C"
+  },
+  {
+    "Id": 228,
+    "Question": "What country is the rock group U2 from?",
+    "A": "England",
+    "B": "Ireland",
+    "C": "Belgium",
+    "D": "Germany",
+    "Answer": "B"
+  },
+  {
+    "Id": 229,
+    "Question": "What country was once ruled by shoguns?",
+    "A": "China",
+    "B": "Japan",
+    "C": "North Korea",
+    "D": "Taiwan",
+    "Answer": "B"
+  },
+  {
+    "Id": 230,
+    "Question": "What day of the week is sometimes called \u0027hump day\u0027?",
+    "A": "Wednesday",
+    "B": "Thursday",
+    "C": "Friday",
+    "D": "Saturday",
+    "Answer": "A"
+  },
+  {
+    "Id": 231,
+    "Question": "What disease does a carcinogen cause?",
+    "A": "cancer",
+    "B": "influenza",
+    "C": "emphysema",
+    "D": "heart disease",
+    "Answer": "A"
+  },
+  {
+    "Id": 232,
+    "Question": "What disease is characterized by a body\u0027s inability to properly metabolize glucose?",
+    "A": "Influenza",
+    "B": "Septicemia",
+    "C": "Diabetes",
+    "D": "Arthritis",
+    "Answer": "C"
+  },
+  {
+    "Id": 233,
+    "Question": "What disease is sometimes referred to as the \u0027royal disease\u0027?",
+    "A": "rickets",
+    "B": "measles",
+    "C": "hemophilia",
+    "D": "tuberculosis",
+    "Answer": "C"
+  },
+  {
+    "Id": 234,
+    "Question": "What do the initials \u0027E. E.\u0027 in poet E. E. Cummings\u0027 name stand for?",
+    "A": "Edward Estlin",
+    "B": "Edmund Earl",
+    "C": "Ernest Eakins",
+    "D": "Eugene Evan",
+    "Answer": "A"
+  },
+  {
+    "Id": 235,
+    "Question": "What do you call a young cow?",
+    "A": "mare",
+    "B": "lamb",
+    "C": "kid",
+    "D": "calf",
+    "Answer": "D"
+  },
+  {
+    "Id": 236,
+    "Question": "What do you call three consecutive strikes in bowling?",
+    "A": "yahtzee",
+    "B": "mulligan",
+    "C": "turkey",
+    "D": "ace",
+    "Answer": "C"
+  },
+  {
+    "Id": 237,
+    "Question": "What does a pH level measure?",
+    "A": "acidity",
+    "B": "density",
+    "C": "wavelength",
+    "D": "humidity",
+    "Answer": "A"
+  },
+  {
+    "Id": 238,
+    "Question": "What does an animal produce when it lactates?",
+    "A": "sweat",
+    "B": "wool",
+    "C": "milk",
+    "D": "methane",
+    "Answer": "C"
+  },
+  {
+    "Id": 239,
+    "Question": "What does it mean to work \u0027pro bono\u0027?",
+    "A": "work overtime",
+    "B": "work without pay",
+    "C": "work as your own boss",
+    "D": "not work at all",
+    "Answer": "B"
+  },
+  {
+    "Id": 240,
+    "Question": "What does the acronym \u0027REM\u0027 stand for?",
+    "A": "random energy module",
+    "B": "rapid eye movement",
+    "C": "red entertainment machine",
+    "D": "really energetic music",
+    "Answer": "B"
+  },
+  {
+    "Id": 241,
+    "Question": "What does the Latin phrase \u0027e pluribus unum\u0027 mean?",
+    "A": "What a crazy life.",
+    "B": "In God we trust.",
+    "C": "from many, one",
+    "D": "for the greater good",
+    "Answer": "C"
+  },
+  {
+    "Id": 242,
+    "Question": "What does the \u0027ROM\u0027 in CD-ROM stand for?",
+    "A": "Really Obscure Memory",
+    "B": "Run-Other Memory",
+    "C": "Random Object Memory",
+    "D": "Read-Only Memory",
+    "Answer": "D"
+  },
+  {
+    "Id": 243,
+    "Question": "What does the Yiddish word \u0027meshuga\u0027 mean?",
+    "A": "crazy",
+    "B": "sacred",
+    "C": "stingy",
+    "D": "sweet",
+    "Answer": "A"
+  },
+  {
+    "Id": 244,
+    "Question": "What exercise apparatus is used during a \u0027Spinning\u0027 class?",
+    "A": "stationary bicycle",
+    "B": "treadmill",
+    "C": "rowing machine",
+    "D": "barbells",
+    "Answer": "A"
+  },
+  {
+    "Id": 245,
+    "Question": "What famous folksinger founded the Institute for the Study of Non-Violence in 1965?",
+    "A": "Bob Dylan",
+    "B": "Woody Guthrie",
+    "C": "Joan Baez",
+    "D": "Peter Yarrow",
+    "Answer": "C"
+  },
+  {
+    "Id": 246,
+    "Question": "What famous radio personality was also the voice of Shaggy on the cartoon \u0027Scooby-Doo\u0027?",
+    "A": "Rush Limbaugh",
+    "B": "Casey Kasem",
+    "C": "Larry King",
+    "D": "Howard Stern",
+    "Answer": "B"
+  },
+  {
+    "Id": 247,
+    "Question": "What fictional character claims to be \u0027smarter than the average bear\u0027?",
+    "A": "Paddington Bear",
+    "B": "Fozzie Bear",
+    "C": "Smokey Bear",
+    "D": "Yogi Bear",
+    "Answer": "D"
+  },
+  {
+    "Id": 248,
+    "Question": "What French city is home to a famous international film festival each spring?",
+    "A": "Cannes",
+    "B": "Marseille",
+    "C": "Dijon",
+    "D": "Lyon",
+    "Answer": "A"
+  },
+  {
+    "Id": 249,
+    "Question": "What football player was known as \u0027The Galloping Ghost\u0027?",
+    "A": "Jim Thorpe",
+    "B": "Dick Butkus",
+    "C": "Red Grange",
+    "D": "George Halas",
+    "Answer": "C"
+  },
+  {
+    "Id": 250,
+    "Question": "What force causes an ice cream cone to fly off of a spinning merry-go-round?",
+    "A": "centrifugal",
+    "B": "vehicular",
+    "C": "gravitational",
+    "D": "torsal",
+    "Answer": "A"
+  },
+  {
+    "Id": 251,
+    "Question": "What former \u0027Today\u0027 show personality played a neighbor on the TV sitcom \u0027The Hogan Family\u0027?",
+    "A": "Jane Pauley",
+    "B": "Willard Scott",
+    "C": "Deborah Norville",
+    "D": "Joe Garagiola",
+    "Answer": "B"
+  },
+  {
+    "Id": 252,
+    "Question": "What Greek poet wrote \u0027The Iliad\u0027 and \u0027The Odyssey\u0027?",
+    "A": "Sophocles",
+    "B": "Plato",
+    "C": "Homer",
+    "D": "Socrates",
+    "Answer": "C"
+  },
+  {
+    "Id": 253,
+    "Question": "What high school does the gang from the \u0027Archie\u0027 comic strip attend?",
+    "A": "Ridgemont High",
+    "B": "Riverdale High",
+    "C": "Rumson High",
+    "D": "Riker\u0027s Island High",
+    "Answer": "B"
+  },
+  {
+    "Id": 254,
+    "Question": "What important food crop is grown in fields called paddies?",
+    "A": "wheat",
+    "B": "rye",
+    "C": "corn",
+    "D": "rice",
+    "Answer": "D"
+  },
+  {
+    "Id": 255,
+    "Question": "What internet company goes by the acronym AOL?",
+    "A": "America Over Lines",
+    "B": "America Online",
+    "C": "Americans On Links",
+    "D": "Americans On LOR",
+    "Answer": "B"
+  },
+  {
+    "Id": 256,
+    "Question": "What is a balalaika?",
+    "A": "musical instrument",
+    "B": "Russian peasant",
+    "C": "type of hat",
+    "D": "breed of shark",
+    "Answer": "A"
+  },
+  {
+    "Id": 257,
+    "Question": "What is a Dutch oven?",
+    "A": "a toaster oven",
+    "B": "a microwave",
+    "C": "a kettle pot",
+    "D": "a sauna",
+    "Answer": "C"
+  },
+  {
+    "Id": 258,
+    "Question": "What is actor Antonio Banderas native language?",
+    "A": "Spanish",
+    "B": "Russian",
+    "C": "German",
+    "D": "French",
+    "Answer": "A"
+  },
+  {
+    "Id": 259,
+    "Question": "What is an alternate name for the food dish \u0027Beijing duck\u0027?",
+    "A": "Shanghai duck",
+    "B": "Peking duck",
+    "C": "Hong Kong duck",
+    "D": "Brooklyn duck",
+    "Answer": "B"
+  },
+  {
+    "Id": 260,
+    "Question": "What is another name for the camelopard?",
+    "A": "circus",
+    "B": "giraffe",
+    "C": "cantaloupe",
+    "D": "oasis",
+    "Answer": "B"
+  },
+  {
+    "Id": 261,
+    "Question": "What is another way of writing \u0027six feet\u0027?",
+    "A": "6\u0027",
+    "B": "6",
+    "C": "6\u0027\u0027",
+    "D": "6#",
+    "Answer": "A"
+  },
+  {
+    "Id": 262,
+    "Question": "What is called a \u0027lorry\u0027 in Britain?",
+    "A": "a toaster",
+    "B": "a truck",
+    "C": "a babysitter",
+    "D": "an elevator",
+    "Answer": "B"
+  },
+  {
+    "Id": 263,
+    "Question": "What is considered the proper way to address a duke?",
+    "A": "\u0027Your Majesty\u0027",
+    "B": "\u0027Your Eminence\u0027",
+    "C": "\u0027Your Excellency\u0027",
+    "D": "\u0027Your Grace\u0027",
+    "Answer": "D"
+  },
+  {
+    "Id": 264,
+    "Question": "What is Delta Burke\u0027s character\u0027s job on the sitcom \u0027Designing Women\u0027?",
+    "A": "fashion designer",
+    "B": "graphic designer",
+    "C": "interior designer",
+    "D": "website designer",
+    "Answer": "C"
+  },
+  {
+    "Id": 265,
+    "Question": "What is New Mexico\u0027s nickname?",
+    "A": "\u0027The Desert State\u0027",
+    "B": "\u0027Gateway to Paradise\u0027",
+    "C": "\u0027Land of Enchantment\u0027",
+    "D": "\u0027The Garden State\u0027",
+    "Answer": "C"
+  },
+  {
+    "Id": 266,
+    "Question": "What is produced during photosynthesis?",
+    "A": "hydrogen",
+    "B": "nylon",
+    "C": "oxygen",
+    "D": "light",
+    "Answer": "C"
+  },
+  {
+    "Id": 267,
+    "Question": "What is the 7-Eleven company\u0027s trademarked name for its super-large sodas?",
+    "A": "Big Slurp",
+    "B": "Big Gulp",
+    "C": "Big Drink",
+    "D": "Big Sip",
+    "Answer": "B"
+  },
+  {
+    "Id": 268,
+    "Question": "What is the approximate speed of light?",
+    "A": "165 miles per hour",
+    "B": "122,000 miles per hour",
+    "C": "186,000 miles per second",
+    "D": "293,000 miles per second",
+    "Answer": "C"
+  },
+  {
+    "Id": 269,
+    "Question": "What is the art of elegant handwriting called?",
+    "A": "calligraphy",
+    "B": "engraving",
+    "C": "decoupage",
+    "D": "lithography",
+    "Answer": "A"
+  },
+  {
+    "Id": 270,
+    "Question": "What is the baseball term for a batter who substitutes for another batter?",
+    "A": "switchhitter",
+    "B": "shadow hitter",
+    "C": "clip hitter ",
+    "D": "pinch hitter",
+    "Answer": "D"
+  },
+  {
+    "Id": 271,
+    "Question": "What is the birthstone for the month of January?",
+    "A": "topaz",
+    "B": "garnet",
+    "C": "opal",
+    "D": "diamond",
+    "Answer": "B"
+  },
+  {
+    "Id": 272,
+    "Question": "What is the capital of New Zealand?",
+    "A": "Sydney",
+    "B": "Wellington",
+    "C": "Auckland",
+    "D": "Melbourne",
+    "Answer": "B"
+  },
+  {
+    "Id": 273,
+    "Question": "What is the capital of North Dakota?",
+    "A": "Bismarck",
+    "B": "Fargo",
+    "C": "Sioux Falls",
+    "D": "Pierre",
+    "Answer": "A"
+  },
+  {
+    "Id": 274,
+    "Question": "What is the chemical process wherein a solid is turned to a liquid via the application of heat?",
+    "A": "distillation",
+    "B": "photosynthesis",
+    "C": "freezing",
+    "D": "melting",
+    "Answer": "D"
+  },
+  {
+    "Id": 275,
+    "Question": "What is the colored part of the eye called?",
+    "A": "iris",
+    "B": "pupil",
+    "C": "retina",
+    "D": "cochlea",
+    "Answer": "A"
+  },
+  {
+    "Id": 276,
+    "Question": "What is the correct spelling of New Mexico\u0027s largest city?",
+    "A": "Albuqerque",
+    "B": "Albuquerque",
+    "C": "Albequerque",
+    "D": "Santa Fe",
+    "Answer": "B"
+  },
+  {
+    "Id": 277,
+    "Question": "What is the final word of the Pledge of Allegiance?",
+    "A": "America",
+    "B": "stands",
+    "C": "indivisible",
+    "D": "all",
+    "Answer": "D"
+  },
+  {
+    "Id": 278,
+    "Question": "What is the largest animal ever to live on Earth?",
+    "A": "blue whale",
+    "B": "giant squid",
+    "C": "woolly mammoth",
+    "D": "Tyrannosaurus",
+    "Answer": "A"
+  },
+  {
+    "Id": 279,
+    "Question": "What is the largest city in Pennsylvania?",
+    "A": "Philadelphia",
+    "B": "Stewartsville",
+    "C": "Harrisburg",
+    "D": "Pittsburgh",
+    "Answer": "A"
+  },
+  {
+    "Id": 280,
+    "Question": "What is the last book of the New Testament?",
+    "A": "Revelation",
+    "B": "Judges",
+    "C": "Ruth",
+    "D": "John",
+    "Answer": "A"
+  },
+  {
+    "Id": 281,
+    "Question": "What is the last letter of the Greek alphabet?",
+    "A": "omicron",
+    "B": "omega",
+    "C": "upsilon",
+    "D": "zeta",
+    "Answer": "B"
+  },
+  {
+    "Id": 282,
+    "Question": "What is the meaning of \u0027Betelgeuse\u0027, the name of the brightest star in the constellation Orion?",
+    "A": "blossom on a shield",
+    "B": "eye of the archer",
+    "C": "the lion\u0027s mane",
+    "D": "armpit of the giant",
+    "Answer": "D"
+  },
+  {
+    "Id": 283,
+    "Question": "What is the medical term for a doctor\u0027s identification of a disease?",
+    "A": "Hypnosis",
+    "B": "Prognosis",
+    "C": "Trichinosis",
+    "D": "Diagnosis",
+    "Answer": "D"
+  },
+  {
+    "Id": 284,
+    "Question": "What is the more common name for the disease \u0027pertussis\u0027?",
+    "A": "whooping cough",
+    "B": "tennis elbow",
+    "C": "black lung",
+    "D": "German measles",
+    "Answer": "A"
+  },
+  {
+    "Id": 285,
+    "Question": "What is the most popular month for weddings in America?",
+    "A": "January",
+    "B": "May",
+    "C": "August",
+    "D": "November",
+    "Answer": "C"
+  },
+  {
+    "Id": 286,
+    "Question": "What is the name for the thin board used to mix colors while painting?",
+    "A": "pestle",
+    "B": "easel",
+    "C": "shoe",
+    "D": "palette",
+    "Answer": "D"
+  },
+  {
+    "Id": 287,
+    "Question": "What is the name of Howard Stern\u0027s female on-air sidekick?",
+    "A": "Allison Norris",
+    "B": "Jackie Reeses",
+    "C": "Jackie Martling",
+    "D": "Robin Quivers",
+    "Answer": "D"
+  },
+  {
+    "Id": 288,
+    "Question": "What is the name of Mario\u0027s brother in the \u0027Super Mario\u0027 video games?",
+    "A": "Louis",
+    "B": "Luigi",
+    "C": "Luciano",
+    "D": "Zelda",
+    "Answer": "B"
+  },
+  {
+    "Id": 289,
+    "Question": "What is the name of Raggedy Ann\u0027s doll brother?",
+    "A": "Red",
+    "B": "Freckles",
+    "C": "Randy",
+    "D": "Andy",
+    "Answer": "D"
+  },
+  {
+    "Id": 290,
+    "Question": "What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?",
+    "A": "Pun\u0027kin",
+    "B": "Lamikins",
+    "C": "Suga\u0027baby",
+    "D": "Swee\u0027pea",
+    "Answer": "D"
+  },
+  {
+    "Id": 291,
+    "Question": "What is the name of the character Played by Woody Allen in the 1967 James Bond film \u0027Casino Royale\u0027?",
+    "A": "Dr. Evil",
+    "B": "Q",
+    "C": "Little Jimmy Bond",
+    "D": "M",
+    "Answer": "C"
+  },
+  {
+    "Id": 292,
+    "Question": "What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?",
+    "A": "Miss Jackie",
+    "B": "Elizabeth Sanford",
+    "C": "Geraldine Jones",
+    "D": "Gladys Knight",
+    "Answer": "C"
+  },
+  {
+    "Id": 293,
+    "Question": "What is the name of the fruit that is half tangerine and half grapefruit?",
+    "A": "graperine",
+    "B": "tangefruit",
+    "C": "tangelo",
+    "D": "kumquat",
+    "Answer": "C"
+  },
+  {
+    "Id": 294,
+    "Question": "What is the name of the mountain where the mythological Greek gods live?",
+    "A": "Jupiter",
+    "B": "Olympus",
+    "C": "Vesuvius",
+    "D": "Valhalla",
+    "Answer": "B"
+  },
+  {
+    "Id": 295,
+    "Question": "What is the name of the Newtonian law that states \u0027An object in Motion tends to stay in motion\u0027?",
+    "A": "Law of Inertia",
+    "B": "Law of Thermodynamics",
+    "C": "Law of Relativity",
+    "D": "Law of Gravitation",
+    "Answer": "A"
+  },
+  {
+    "Id": 296,
+    "Question": "What is the name of the POW camp where \u0027Hogan\u0027s Heroes\u0027 are held?",
+    "A": "Stalag 13",
+    "B": "Alcatraz 17",
+    "C": "Devil\u0027s Island",
+    "D": "Leavenworth",
+    "Answer": "A"
+  },
+  {
+    "Id": 297,
+    "Question": "What is the name of the South African political party that was headed by Nelson Mandela?",
+    "A": "African National Congress",
+    "B": "South African Democrats",
+    "C": "Inkatha Freedom Party",
+    "D": "Aryan National Assembly",
+    "Answer": "A"
+  },
+  {
+    "Id": 298,
+    "Question": "What is the name of the StarKist tuna mascot?",
+    "A": "Charlie",
+    "B": "Sam",
+    "C": "Al",
+    "D": "Morris",
+    "Answer": "A"
+  },
+  {
+    "Id": 299,
+    "Question": "What is the name of the Swedish company that specializes in affordable furniture?",
+    "A": "Gambro",
+    "B": "Electrolux",
+    "C": "Saab",
+    "D": "IKEA",
+    "Answer": "D"
+  },
+  {
+    "Id": 300,
+    "Question": "What is the national animal of Australia?",
+    "A": "koala",
+    "B": "kangaroo",
+    "C": "platypus",
+    "D": "alligator",
+    "Answer": "B"
+  },
+  {
+    "Id": 301,
+    "Question": "What is the nickname of Florida\u0027s controversial death row electric chair?",
+    "A": "Old Yeller",
+    "B": "Old Geezer",
+    "C": "Old Smoky",
+    "D": "Old Sparky",
+    "Answer": "D"
+  },
+  {
+    "Id": 302,
+    "Question": "What is the normal playback speed of a 12\u0022 long-playing record?",
+    "A": "12 1/2 rpm",
+    "B": "33 1/3 rpm",
+    "C": "45 rpm",
+    "D": "100 rpm",
+    "Answer": "B"
+  },
+  {
+    "Id": 303,
+    "Question": "What is the official language of The Netherlands?",
+    "A": "Danish",
+    "B": "Swedish",
+    "C": "German",
+    "D": "Dutch",
+    "Answer": "D"
+  },
+  {
+    "Id": 304,
+    "Question": "What is the oldest continuously run sporting event in the United States?",
+    "A": "Westminster Dog Show",
+    "B": "Boston Marathon",
+    "C": "Kentucky Derby",
+    "D": "Indianapolis 500",
+    "Answer": "C"
+  },
+  {
+    "Id": 305,
+    "Question": "What is the oldest permanent European settlement in the United States?",
+    "A": "St. Augustine, Florida",
+    "B": "Plymouth, Massachusetts",
+    "C": "Newport News, Virginia",
+    "D": "Charlotte, North Carolina",
+    "Answer": "A"
+  },
+  {
+    "Id": 306,
+    "Question": "What is the principal ingredient in traditional cole slaw?",
+    "A": "lettuce",
+    "B": "spinach ",
+    "C": "cabbage",
+    "D": "chicory",
+    "Answer": "C"
+  },
+  {
+    "Id": 307,
+    "Question": "What is the proletariat?",
+    "A": "the homeless",
+    "B": "the royalty",
+    "C": "the upper class",
+    "D": "the working class",
+    "Answer": "D"
+  },
+  {
+    "Id": 308,
+    "Question": "What is the proper nautical use of an anchor?",
+    "A": "to catch large fish",
+    "B": "to calculate water depth",
+    "C": "to hold a ship in place",
+    "D": "to damage other boats",
+    "Answer": "C"
+  },
+  {
+    "Id": 309,
+    "Question": "What is the singular form of the word \u0027graffiti\u0027?",
+    "A": "graffita",
+    "B": "graffitem",
+    "C": "graffito",
+    "D": "graffitus",
+    "Answer": "C"
+  },
+  {
+    "Id": 310,
+    "Question": "What is the square root of 81 squared?",
+    "A": "9",
+    "B": "27",
+    "C": "81",
+    "D": "729",
+    "Answer": "C"
+  },
+  {
+    "Id": 311,
+    "Question": "What is the technical term for someone who studies fish?",
+    "A": "entomologist",
+    "B": "ichthyologist",
+    "C": "marinologist",
+    "D": "herpetologist",
+    "Answer": "B"
+  },
+  {
+    "Id": 312,
+    "Question": "What is the technical term for the offspring of a female donkey and a male horse?",
+    "A": "burro",
+    "B": "dorse",
+    "C": "hinny",
+    "D": "honker",
+    "Answer": "C"
+  },
+  {
+    "Id": 313,
+    "Question": "What is the traditional 20th wedding anniversary gift?",
+    "A": "paper",
+    "B": "leather",
+    "C": "china",
+    "D": "silver",
+    "Answer": "C"
+  },
+  {
+    "Id": 314,
+    "Question": "What is varicella?",
+    "A": "a fancy pasta",
+    "B": "a type of opera",
+    "C": "the chicken pox virus",
+    "D": "ancient Roman poetry",
+    "Answer": "C"
+  },
+  {
+    "Id": 315,
+    "Question": "What is your astrological sign if you were born on Halloween?",
+    "A": "Scorpio",
+    "B": "Capricorn",
+    "C": "Libra",
+    "D": "Cancer",
+    "Answer": "A"
+  },
+  {
+    "Id": 316,
+    "Question": "What is your hallux?",
+    "A": "earlobe",
+    "B": "tongue",
+    "C": "eyelid",
+    "D": "big toe",
+    "Answer": "D"
+  },
+  {
+    "Id": 317,
+    "Question": "What kind of angle is formed where two perpendicular lines meet?",
+    "A": "obtuse",
+    "B": "acute",
+    "C": "right",
+    "D": "invisible",
+    "Answer": "C"
+  },
+  {
+    "Id": 318,
+    "Question": "What kind of animal is a peregrine?",
+    "A": "moose",
+    "B": "cat",
+    "C": "bird",
+    "D": "fish",
+    "Answer": "C"
+  },
+  {
+    "Id": 319,
+    "Question": "What kind of animal is cartoon character Tennessee Tuxedo?",
+    "A": "cat",
+    "B": "skunk",
+    "C": "walrus",
+    "D": "penguin",
+    "Answer": "D"
+  },
+  {
+    "Id": 320,
+    "Question": "What kind of car did Burt Reynolds drive in the movie \u0027Smokey and the Bandit\u0027?",
+    "A": "Lamborghini",
+    "B": "Camaro",
+    "C": "Corvette",
+    "D": "Trans Am",
+    "Answer": "D"
+  },
+  {
+    "Id": 321,
+    "Question": "What kind of flying contraption is featured in the movie \u0027Chitty Chitty Bang Bang\u0027?",
+    "A": "boat",
+    "B": "car",
+    "C": "truck",
+    "D": "bike",
+    "Answer": "B"
+  },
+  {
+    "Id": 322,
+    "Question": "What kind of item is a ginsu?",
+    "A": "radio",
+    "B": "knife",
+    "C": "toothbrush",
+    "D": "martial arts weapon",
+    "Answer": "B"
+  },
+  {
+    "Id": 323,
+    "Question": "What kind of worker uses a \u0027paddy wagon\u0027?",
+    "A": "limo driver",
+    "B": "police officer",
+    "C": "rice farmer",
+    "D": "paramedic",
+    "Answer": "B"
+  },
+  {
+    "Id": 324,
+    "Question": "What letters are on the \u00273\u0027 button of a touch-tone telephone?",
+    "A": "ABC",
+    "B": "DEF",
+    "C": "GHI",
+    "D": "WXY",
+    "Answer": "B"
+  },
+  {
+    "Id": 325,
+    "Question": "What liqueur is used to make a Pink Lady cocktail pink?",
+    "A": "grenadine",
+    "B": "schnapps",
+    "C": "triple sec",
+    "D": "pernod",
+    "Answer": "A"
+  },
+  {
+    "Id": 326,
+    "Question": "What literary work is the source of the quote \u0027Abandon every hope, all you who enter here\u0027?",
+    "A": "\u0027Paradise Lost\u0027",
+    "B": "\u0027The Divine Comedy\u0027",
+    "C": "\u0027Beowulf\u0027",
+    "D": "\u0027Twilight\u0027",
+    "Answer": "B"
+  },
+  {
+    "Id": 327,
+    "Question": "What mathematical term is used to describe the average of a series of numbers?",
+    "A": "median",
+    "B": "mode",
+    "C": "majority",
+    "D": "mean",
+    "Answer": "D"
+  },
+  {
+    "Id": 328,
+    "Question": "What metal device is used by police to immobilize the wheels of repeat parking offenders?",
+    "A": "Brooklyn clamp",
+    "B": "Denver boot",
+    "C": "LoJack",
+    "D": "The Club",
+    "Answer": "B"
+  },
+  {
+    "Id": 329,
+    "Question": "What Mexican holiday takes place on May 5th?",
+    "A": "Mexican Independence Day",
+    "B": "Santa Anna\u0027s Birthday",
+    "C": "Cinco de Mayo",
+    "D": "Christmas",
+    "Answer": "C"
+  },
+  {
+    "Id": 330,
+    "Question": "What nationality was Karl Marx?",
+    "A": "Russian",
+    "B": "German",
+    "C": "Danish",
+    "D": "English",
+    "Answer": "B"
+  },
+  {
+    "Id": 331,
+    "Question": "What Native American tribe did chief Crazy Horse lead?",
+    "A": "Apache",
+    "B": "Comanche",
+    "C": "Sioux",
+    "D": "Iroquois",
+    "Answer": "C"
+  },
+  {
+    "Id": 332,
+    "Question": "What native empire controlled Large areas of South African Territory during the 19th century?",
+    "A": "Hutu",
+    "B": "Zulu",
+    "C": "Aztec",
+    "D": "Masai",
+    "Answer": "B"
+  },
+  {
+    "Id": 333,
+    "Question": "What New Age musician released a 1998 album titled \u0027King of the Pan Flute\u0027?",
+    "A": "Zamfir",
+    "B": "Yanni",
+    "C": "Vangelis",
+    "D": "Kenny G",
+    "Answer": "A"
+  },
+  {
+    "Id": 334,
+    "Question": "What new token was recently added to the Monopoly board game?",
+    "A": "piggybank",
+    "B": "sack of money",
+    "C": "globe",
+    "D": "telephone",
+    "Answer": "B"
+  },
+  {
+    "Id": 335,
+    "Question": "What newspaper do Lois Lane and Clark Kent work for?",
+    "A": "The Bugle",
+    "B": "The Daily Planet",
+    "C": "The Metropolis Tribune",
+    "D": "The New York Times",
+    "Answer": "B"
+  },
+  {
+    "Id": 336,
+    "Question": "What part of the human body does a gastroenterologist examine?",
+    "A": "brain",
+    "B": "skeleton",
+    "C": "stomach",
+    "D": "nose",
+    "Answer": "C"
+  },
+  {
+    "Id": 337,
+    "Question": "What part of the world was once known as Cathay?",
+    "A": "China",
+    "B": "India",
+    "C": "Iran",
+    "D": "Indonesia",
+    "Answer": "A"
+  },
+  {
+    "Id": 338,
+    "Question": "What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?",
+    "A": "Pueblo",
+    "B": "Aztec",
+    "C": "Inca",
+    "D": "Apache",
+    "Answer": "C"
+  },
+  {
+    "Id": 339,
+    "Question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+    "A": "Budapest",
+    "B": "Budokan",
+    "C": "Bhutan",
+    "D": "Britain",
+    "Answer": "B"
+  },
+  {
+    "Id": 340,
+    "Question": "What popular toy is featured in the film \u0027The Hudsucker Proxy\u0027?",
+    "A": "Beanie Babies",
+    "B": "Hula Hoop",
+    "C": "Lincoln Logs",
+    "D": "Lite Brite",
+    "Answer": "B"
+  },
+  {
+    "Id": 341,
+    "Question": "What pro wrestler grapples with Sylvester Stallone in the movie \u0027Rocky III\u0027?",
+    "A": "Dolph Lundgren",
+    "B": "Hulk Hogan",
+    "C": "Andre the Giant",
+    "D": "The Iron Sheik",
+    "Answer": "B"
+  },
+  {
+    "Id": 342,
+    "Question": "What professional sports team plays its home games in the Alamodome?",
+    "A": "New York Jets",
+    "B": "Detroit Tigers",
+    "C": "Boston Bruins",
+    "D": "San Antonio Spurs",
+    "Answer": "D"
+  },
+  {
+    "Id": 343,
+    "Question": "What rank entitles a general in the US Army to wear three stars?",
+    "A": "brigadier general",
+    "B": "corporal general",
+    "C": "lieutenant general",
+    "D": "major general",
+    "Answer": "C"
+  },
+  {
+    "Id": 344,
+    "Question": "What recording artist claims that sportscaster Marv Albert was a major influence on his sound?",
+    "A": "David Lee Roth",
+    "B": "Meat Loaf",
+    "C": "Axl Rose",
+    "D": "Chuck D",
+    "Answer": "D"
+  },
+  {
+    "Id": 345,
+    "Question": "What singer appeared in the 1992 baseball film \u0027A League of Their Own\u0027?",
+    "A": "Brandy",
+    "B": "Madonna",
+    "C": "Garth Brooks",
+    "D": "Whitney Houston",
+    "Answer": "B"
+  },
+  {
+    "Id": 346,
+    "Question": "What sport is featured in the 1996 movie \u0027Kingpin\u0027?",
+    "A": "wrestling",
+    "B": "golf",
+    "C": "chess",
+    "D": "bowling",
+    "Answer": "D"
+  },
+  {
+    "Id": 347,
+    "Question": "What sport is known as \u0027The Sport of Kings\u0027?",
+    "A": "polo",
+    "B": "archery",
+    "C": "yachting",
+    "D": "horse racing",
+    "Answer": "D"
+  },
+  {
+    "Id": 348,
+    "Question": "What sporting event is held annually on Memorial Day weekend?",
+    "A": "Iditarod",
+    "B": "Kentucky Derby",
+    "C": "Indianapolis 500",
+    "D": "Super Bowl",
+    "Answer": "C"
+  },
+  {
+    "Id": 349,
+    "Question": "What substance was used for blood in the famous shower scene from the movie \u0027Psycho\u0027?",
+    "A": "tomato juice",
+    "B": "red wine",
+    "C": "chocolate syrup",
+    "D": "ketchup",
+    "Answer": "C"
+  },
+  {
+    "Id": 350,
+    "Question": "What tea is known for its distinctive bergamot flavor?",
+    "A": "Earl Grey",
+    "B": "Darjeeling",
+    "C": "English Breakfast",
+    "D": "Prince of Wales",
+    "Answer": "A"
+  },
+  {
+    "Id": 351,
+    "Question": "What team has won the most World Series?",
+    "A": "Chicago Cubs",
+    "B": "Los Angeles Dodgers",
+    "C": "New York Yankees",
+    "D": "San Francisco Giants",
+    "Answer": "C"
+  },
+  {
+    "Id": 352,
+    "Question": "What term describes a tribe that has no set homeland and wanders from place to place?",
+    "A": "Nomadic",
+    "B": "Pedantic",
+    "C": "Schematic",
+    "D": "Cathartic",
+    "Answer": "A"
+  },
+  {
+    "Id": 353,
+    "Question": "What term describes a word created by rearranging the letters of another word?",
+    "A": "onomatopoeia",
+    "B": "malapropism",
+    "C": "anagram",
+    "D": "antonym",
+    "Answer": "C"
+  },
+  {
+    "Id": 354,
+    "Question": "What term describes someone who does not believe in the existence of God?",
+    "A": "hedonist",
+    "B": "deist",
+    "C": "agnostic",
+    "D": "atheist",
+    "Answer": "D"
+  },
+  {
+    "Id": 355,
+    "Question": "What term describes the passing of genetic traits from one generation to the next?",
+    "A": "heredity",
+    "B": "heresy",
+    "C": "homogeneity",
+    "D": "hemoglobin",
+    "Answer": "A"
+  },
+  {
+    "Id": 356,
+    "Question": "What term is used to describe a group of fish?",
+    "A": "knot",
+    "B": "drape",
+    "C": "school",
+    "D": "gaggle",
+    "Answer": "C"
+  },
+  {
+    "Id": 357,
+    "Question": "What term is used to describe a group of geese?",
+    "A": "gaggle",
+    "B": "gang",
+    "C": "gander",
+    "D": "grist",
+    "Answer": "A"
+  },
+  {
+    "Id": 358,
+    "Question": "What topic does Spin magazine primarily cover?",
+    "A": "politics",
+    "B": "washing machines",
+    "C": "books",
+    "D": "music",
+    "Answer": "D"
+  },
+  {
+    "Id": 359,
+    "Question": "What type of meat is on a traditional Reuben sandwich?",
+    "A": "turkey",
+    "B": "bologna",
+    "C": "corned beef",
+    "D": "pepperoni",
+    "Answer": "C"
+  },
+  {
+    "Id": 360,
+    "Question": "What type of substance is \u0027terra-cotta\u0027?",
+    "A": "metal",
+    "B": "ceramic",
+    "C": "wood",
+    "D": "glass",
+    "Answer": "B"
+  },
+  {
+    "Id": 361,
+    "Question": "What U.S. president is mentioned by name in the opening theme song of TV\u0027s \u0027All in the Family\u0027?",
+    "A": "Calvin Coolidge",
+    "B": "Harry Truman",
+    "C": "Herbert Hoover",
+    "D": "Richard Nixon",
+    "Answer": "C"
+  },
+  {
+    "Id": 362,
+    "Question": "What was Ludwig Van Beethoven\u0027s final symphony?",
+    "A": "Ninth",
+    "B": "Tenth",
+    "C": "Eleventh",
+    "D": "Twelfth",
+    "Answer": "A"
+  },
+  {
+    "Id": 363,
+    "Question": "What was Richard Nixon\u0027s middle name?",
+    "A": "Michael",
+    "B": "Milhous",
+    "C": "Mortimer",
+    "D": "Matthew",
+    "Answer": "B"
+  },
+  {
+    "Id": 364,
+    "Question": "What was the birth name of civil rights leader Malcolm X?",
+    "A": "Michael Brown",
+    "B": "Malcolm Little",
+    "C": "Malcolm Lincoln",
+    "D": "Michael Lloyd",
+    "Answer": "B"
+  },
+  {
+    "Id": 365,
+    "Question": "What was the first American college to become coeducational?",
+    "A": "Oberlin College",
+    "B": "Dartmouth College",
+    "C": "Grinnell College",
+    "D": "Antioch College",
+    "Answer": "A"
+  },
+  {
+    "Id": 366,
+    "Question": "What was the name of Huey Lewis\u0027 band?",
+    "A": "The News",
+    "B": "The Attractions",
+    "C": "The Silver Bullet Band",
+    "D": "Louie and Dewey",
+    "Answer": "A"
+  },
+  {
+    "Id": 367,
+    "Question": "What was the name of the 1999 art exhibit that sparked a national debate about censorship?",
+    "A": "\u0027Sticks \u0026 Stones\u0027",
+    "B": "\u0027Pulsation\u0027",
+    "C": "\u0027Black \u0026 White\u0027",
+    "D": "\u0027Sensation\u0027",
+    "Answer": "D"
+  },
+  {
+    "Id": 368,
+    "Question": "What was the name of the first nuclear-powered submarine?",
+    "A": "Nautilus",
+    "B": "Neptune",
+    "C": "Nordenfelt III",
+    "D": "Nicholas",
+    "Answer": "A"
+  },
+  {
+    "Id": 369,
+    "Question": "What was the name of the first ship to sail around the world?",
+    "A": "Triton",
+    "B": "Victoria",
+    "C": "Magellan",
+    "D": "Elizabeth II",
+    "Answer": "B"
+  },
+  {
+    "Id": 370,
+    "Question": "What was the original name of the Apple Macintosh XL computer?",
+    "A": "Lisa 2",
+    "B": "Mac Daddy",
+    "C": "Granny Smith",
+    "D": "Orange XL",
+    "Answer": "A"
+  },
+  {
+    "Id": 371,
+    "Question": "What was the title of Beethoven\u0027s only completed opera?",
+    "A": "\u0027Faust\u0027",
+    "B": "\u0027The Silence\u0027",
+    "C": "\u0027Immortal Beloved\u0027",
+    "D": "\u0027Fidelio\u0027",
+    "Answer": "D"
+  },
+  {
+    "Id": 372,
+    "Question": "What were the first names of the early American explorers Lewis and Clark?",
+    "A": "Morgan and Mason",
+    "B": "Meriwether and William",
+    "C": "Cabot and Joseph",
+    "D": "Meredith and George",
+    "Answer": "B"
+  },
+  {
+    "Id": 373,
+    "Question": "What\u0027s the popular name of the breakfast meal consisting of sausages wrapped in pancakes?",
+    "A": "ducks in a pond",
+    "B": "pigs in a blanket",
+    "C": "cows in a pasture",
+    "D": "dogs in the oven",
+    "Answer": "B"
+  },
+  {
+    "Id": 374,
+    "Question": "What\u0027s the third letter of the Greek alphabet?",
+    "A": "delta",
+    "B": "gamma",
+    "C": "phi",
+    "D": "theta",
+    "Answer": "B"
+  },
+  {
+    "Id": 375,
+    "Question": "What\u0027s unique about a skeleton key?",
+    "A": "It opens many locks.",
+    "B": "It\u0027s made of bone.",
+    "C": "It\u0027s extremely old.",
+    "D": "It hangs in a closet.",
+    "Answer": "A"
+  },
+  {
+    "Id": 376,
+    "Question": "When daylight-saving time arrives in the spring, how do most Americans turn their clocks?",
+    "A": "one hour forward",
+    "B": "one hour backward",
+    "C": "two hours forward",
+    "D": "two hours backward",
+    "Answer": "B"
+  },
+  {
+    "Id": 377,
+    "Question": "When driving, which of the following gestures means \u0027left turn\u0027?",
+    "A": "arm bent upwards",
+    "B": "thumbs up",
+    "C": "closed fist",
+    "D": "arm straight out",
+    "Answer": "D"
+  },
+  {
+    "Id": 378,
+    "Question": "In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?",
+    "A": "six",
+    "B": "seven",
+    "C": "eight",
+    "D": "ten",
+    "Answer": "A"
+  },
+  {
+    "Id": 379,
+    "Question": "When it comes to measuring horses, how long is a \u0027hand\u0027?",
+    "A": "four inches",
+    "B": "seven inches",
+    "C": "ten inches",
+    "D": "two feet",
+    "Answer": "A"
+  },
+  {
+    "Id": 380,
+    "Question": "When it first appeared on the Internet, amazon.com sold only what?",
+    "A": "books",
+    "B": "compact discs",
+    "C": "cars",
+    "D": "clothes",
+    "Answer": "A"
+  },
+  {
+    "Id": 381,
+    "Question": "When it\u0027s noon in New York during daylight-saving time, what time is it in Honolulu?",
+    "A": "6:00 a.m.",
+    "B": "6:30 a.m.",
+    "C": "7:00 a.m.",
+    "D": "8:00 a.m.",
+    "Answer": "A"
+  },
+  {
+    "Id": 382,
+    "Question": "Where are fireworks first known to have been developed?",
+    "A": "Italy",
+    "B": "China",
+    "C": "Great Britain",
+    "D": "Greece",
+    "Answer": "B"
+  },
+  {
+    "Id": 383,
+    "Question": "Where did jazz great Sun Ra claim he was born?",
+    "A": "Atlantis",
+    "B": "Mount Olympus",
+    "C": "Saturn",
+    "D": "in a saxophone",
+    "Answer": "C"
+  },
+  {
+    "Id": 384,
+    "Question": "Where did Lewis and Clark begin their famous expedition in 1804?",
+    "A": "Seattle",
+    "B": "St. Louis",
+    "C": "New Orleans",
+    "D": "Washington, DC",
+    "Answer": "B"
+  },
+  {
+    "Id": 385,
+    "Question": "Where did the Exxon Valdez run aground in March of 1989?",
+    "A": "Monterey Bay",
+    "B": "Prince William Sound",
+    "C": "Cape Cod",
+    "D": "Gulf of Mexico",
+    "Answer": "B"
+  },
+  {
+    "Id": 386,
+    "Question": "Where is Ghirardelli Square located?",
+    "A": "Milan",
+    "B": "Rome",
+    "C": "Washington DC",
+    "D": "San Francisco",
+    "Answer": "D"
+  },
+  {
+    "Id": 387,
+    "Question": "Where is the Louvre museum?",
+    "A": "Paris",
+    "B": "Lyon",
+    "C": "Geneva",
+    "D": "Vichy",
+    "Answer": "A"
+  },
+  {
+    "Id": 388,
+    "Question": "Where was the chicken first domesticated?",
+    "A": "France",
+    "B": "India",
+    "C": "Peru",
+    "D": "Zaire",
+    "Answer": "B"
+  },
+  {
+    "Id": 389,
+    "Question": "Where would you typically find a bailiff?",
+    "A": "grocery store",
+    "B": "courtroom",
+    "C": "football stadium",
+    "D": "doctor\u0027s office",
+    "Answer": "B"
+  },
+  {
+    "Id": 390,
+    "Question": "Where is the Frank Lloyd Wright-designed house known as Falling Water?",
+    "A": "Connecticut",
+    "B": "Pennsylvania",
+    "C": "Illinois",
+    "D": "New York",
+    "Answer": "B"
+  },
+  {
+    "Id": 391,
+    "Question": "Which actress played a pointy-eared Vulcan in the movie \u0027Star Trek II: The Wrath of Khan\u0027?",
+    "A": "Whoopi Goldberg",
+    "B": "Jennifer Grey",
+    "C": "Kirstie Alley",
+    "D": "Helen Hunt",
+    "Answer": "C"
+  },
+  {
+    "Id": 392,
+    "Question": "Which American colony, known for its religious tolerance, did Roger Williams found in 1636?",
+    "A": "Massachusetts",
+    "B": "Rhode Island",
+    "C": "Virginia",
+    "D": "Vermont",
+    "Answer": "B"
+  },
+  {
+    "Id": 393,
+    "Question": "Which brand of cat food claims it\u0027s so tasty that \u0027cats ask for it by name\u0027?",
+    "A": "Fancy Feast",
+    "B": "Cat Chow",
+    "C": "Meow Mix",
+    "D": "9-Lives",
+    "Answer": "C"
+  },
+  {
+    "Id": 394,
+    "Question": "Which character on the TV show \u0027Friends\u0027 is a chef?",
+    "A": "Joey",
+    "B": "Monica",
+    "C": "Ross",
+    "D": "Rachel",
+    "Answer": "B"
+  },
+  {
+    "Id": 395,
+    "Question": "Which company holds an annual self-named \u0027Bake-Off\u0027?",
+    "A": "Betty Crocker",
+    "B": "Duncan Hines",
+    "C": "Pillsbury",
+    "D": "Keebler",
+    "Answer": "C"
+  },
+  {
+    "Id": 396,
+    "Question": "Which famed modeling agency shares its name with a top U.S. automaker?",
+    "A": "Ford",
+    "B": "Chevrolet",
+    "C": "Chrysler",
+    "D": "Saturn",
+    "Answer": "A"
+  },
+  {
+    "Id": 397,
+    "Question": "Which fast food chain used the advertising slogan, \u0027Where\u0027s the beef?\u0027",
+    "A": "Wendy\u0027s",
+    "B": "Kentucky Fried Chicken",
+    "C": "Burger King",
+    "D": "McDonald\u0027s",
+    "Answer": "A"
+  },
+  {
+    "Id": 398,
+    "Question": "Which of the boys on the TV show \u0027My Three Sons\u0027 is adopted?",
+    "A": "Mike",
+    "B": "Ernie",
+    "C": "Chip",
+    "D": "Robbie",
+    "Answer": "B"
+  },
+  {
+    "Id": 399,
+    "Question": "Which of the following articles of clothing has a hood?",
+    "A": "parka",
+    "B": "kilt",
+    "C": "lederhosen",
+    "D": "sarong",
+    "Answer": "A"
+  },
+  {
+    "Id": 400,
+    "Question": "Which of the following beverages is brewed from the leaves of a plant?",
+    "A": "tea",
+    "B": "coffee",
+    "C": "ginger ale",
+    "D": "wine",
+    "Answer": "A"
+  },
+  {
+    "Id": 401,
+    "Question": "Which of the following breakfast cereals is shaped like the letter O?",
+    "A": "Life Corn",
+    "B": "Chex",
+    "C": "Cheerios",
+    "D": "Raisin Bran",
+    "Answer": "C"
+  },
+  {
+    "Id": 402,
+    "Question": "Which of the following candies is traditionally fruit flavored?",
+    "A": "M\u0026M\u0027s",
+    "B": "Skittles",
+    "C": "Reese\u0027s Pieces",
+    "D": "Junior Mints",
+    "Answer": "B"
+  },
+  {
+    "Id": 403,
+    "Question": "Which of the following is a natural sugar found in most fruits?",
+    "A": "necrose",
+    "B": "fructose",
+    "C": "bellicose",
+    "D": "pantiose",
+    "Answer": "B"
+  },
+  {
+    "Id": 404,
+    "Question": "Which of the following is a sports award?",
+    "A": "Oscar",
+    "B": "Emmy",
+    "C": "Nobel",
+    "D": "Espy",
+    "Answer": "D"
+  },
+  {
+    "Id": 405,
+    "Question": "Which of the following is about the Watergate scandal?",
+    "A": "\u0027All the King\u0027s Men\u0027",
+    "B": "\u0027All the Pretty Horses\u0027",
+    "C": "\u0027All the President\u0027s Men\u0027",
+    "D": "\u0027All the Right Moves\u0027",
+    "Answer": "C"
+  },
+  {
+    "Id": 406,
+    "Question": "Which of the following is most commonly kept in a terrarium?",
+    "A": "money",
+    "B": "books",
+    "C": "ice",
+    "D": "plants",
+    "Answer": "D"
+  },
+  {
+    "Id": 407,
+    "Question": "Which of the following is not a flavor of Ben \u0026 Jerry\u0027s Ice Cream?",
+    "A": "Wavy Gravy",
+    "B": "Bovinity Divinity",
+    "C": "Cutie Patootie",
+    "D": "Chubby Hubby",
+    "Answer": "C"
+  },
+  {
+    "Id": 408,
+    "Question": "Which of the following is not a TV cartoon duo?",
+    "A": "Chip and Dale",
+    "B": "Beavis and Butt-head",
+    "C": "Simon and Garfunkel",
+    "D": "Tom and Jerry",
+    "Answer": "C"
+  },
+  {
+    "Id": 409,
+    "Question": "Which of the following is not in Nevada?",
+    "A": "Liberace Museum",
+    "B": "Pikes Peak",
+    "C": "Lake Mead",
+    "D": "Hoover Dam",
+    "Answer": "B"
+  },
+  {
+    "Id": 410,
+    "Question": "Which of the following must be obtained by foreigners wishing to permanently reside in the US?",
+    "A": "visa",
+    "B": "bill of landing",
+    "C": "driver\u0027s license",
+    "D": "carte blanche",
+    "Answer": "A"
+  },
+  {
+    "Id": 411,
+    "Question": "Which of the following requires the use of at least two needles?",
+    "A": "macrame",
+    "B": "braiding",
+    "C": "crocheting",
+    "D": "hand knitting",
+    "Answer": "D"
+  },
+  {
+    "Id": 412,
+    "Question": "Which of the following words does not appear in the Lewis Carroll poem \u0027Jabberwocky\u0027?",
+    "A": "brillig",
+    "B": "bandersnatch",
+    "C": "wabe",
+    "D": "grelp",
+    "Answer": "D"
+  },
+  {
+    "Id": 413,
+    "Question": "Which of the Three Stooges was not related to the others?",
+    "A": "Moe",
+    "B": "Larry",
+    "C": "Curly",
+    "D": "Shemp",
+    "Answer": "B"
+  },
+  {
+    "Id": 414,
+    "Question": "Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?",
+    "A": "Sylvester Stallone",
+    "B": "Jack Nicholson",
+    "C": "Jack Palance",
+    "D": "Marisa Tomei",
+    "Answer": "C"
+  },
+  {
+    "Id": 415,
+    "Question": "Which of these animals lays eggs?",
+    "A": "cow",
+    "B": "gerbil",
+    "C": "frog",
+    "D": "elephant",
+    "Answer": "C"
+  },
+  {
+    "Id": 416,
+    "Question": "Which of these animals shares its name with a luxury car?",
+    "A": "yak",
+    "B": "gazelle",
+    "C": "sloth",
+    "D": "jaguar",
+    "Answer": "D"
+  },
+  {
+    "Id": 417,
+    "Question": "Which of these are not legumes?",
+    "A": "beans",
+    "B": "peas",
+    "C": "radishes",
+    "D": "peanuts",
+    "Answer": "C"
+  },
+  {
+    "Id": 418,
+    "Question": "Which of these Australian birds is most closely related to the ostrich?",
+    "A": "puffin",
+    "B": "kookaburra",
+    "C": "cockatoo",
+    "D": "emu",
+    "Answer": "D"
+  },
+  {
+    "Id": 419,
+    "Question": "Which of these candy bars was named for a baseball player?",
+    "A": "Baby Ruth",
+    "B": "Clark Bar",
+    "C": "Reggie Bar",
+    "D": "Butterfinger",
+    "Answer": "A"
+  },
+  {
+    "Id": 420,
+    "Question": "Which of these college football programs has produced the most Heisman Trophy winners?",
+    "A": "Notre Dame",
+    "B": "USC",
+    "C": "Oklahoma",
+    "D": "Michigan",
+    "Answer": "A"
+  },
+  {
+    "Id": 421,
+    "Question": "Which of these colors is a shade of blue?",
+    "A": "ochre",
+    "B": "periwinkle",
+    "C": "mauve",
+    "D": "ecru",
+    "Answer": "B"
+  },
+  {
+    "Id": 422,
+    "Question": "Which of these countries does not participate in NAFTA?",
+    "A": "United States",
+    "B": "Canada",
+    "C": "Mexico",
+    "D": "Guatemala",
+    "Answer": "D"
+  },
+  {
+    "Id": 423,
+    "Question": "Which of these companies is not an online stock brokerage?",
+    "A": "E*Trade",
+    "B": "EDigital",
+    "C": "Datek Online",
+    "D": "DLJ Direct",
+    "Answer": "B"
+  },
+  {
+    "Id": 424,
+    "Question": "Which of these countries is not in Europe?",
+    "A": "Italy",
+    "B": "Spain",
+    "C": "Greece",
+    "D": "Israel",
+    "Answer": "D"
+  },
+  {
+    "Id": 425,
+    "Question": "Which of these countries was not a member of the Axis nations during World War II?",
+    "A": "Germany",
+    "B": "Italy",
+    "C": "Spain",
+    "D": "Japan",
+    "Answer": "C"
+  },
+  {
+    "Id": 426,
+    "Question": "Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?",
+    "A": "Michael Dukakis",
+    "B": "Walter Mondale",
+    "C": "Gary Hart",
+    "D": "Jimmy Carter",
+    "Answer": "B"
+  },
+  {
+    "Id": 427,
+    "Question": "Which of these dishes is made from pig intestines?",
+    "A": "haggis",
+    "B": "chitlins",
+    "C": "grits",
+    "D": "chop suey",
+    "Answer": "B"
+  },
+  {
+    "Id": 428,
+    "Question": "Which of these evangelists is a cousin of rocker Jerry Lee Lewis?",
+    "A": "Billy Graham",
+    "B": "Oral Roberts",
+    "C": "Jerry Falwell",
+    "D": "Jimmy Swaggart",
+    "Answer": "D"
+  },
+  {
+    "Id": 429,
+    "Question": "Which of these famous baseball figures was once acquitted at court-martial for insubordination?",
+    "A": "Abner Doubleday",
+    "B": "Ty Cobb",
+    "C": "Jackie Robinson",
+    "D": "Billy Martin",
+    "Answer": "C"
+  },
+  {
+    "Id": 430,
+    "Question": "Which of these fashion designers was born in the United States?",
+    "A": "Laura Ashley",
+    "B": "Helmut Lang",
+    "C": "Donna Karan",
+    "D": "Christian Dior",
+    "Answer": "C"
+  },
+  {
+    "Id": 431,
+    "Question": "Which of these foods could contain small amounts of naturally occurring opium?",
+    "A": "chocolate truffles",
+    "B": "poppy seed bagels",
+    "C": "carbonated soda",
+    "D": "sesame chicken",
+    "Answer": "B"
+  },
+  {
+    "Id": 432,
+    "Question": "Which of these foods could you catch at sea?",
+    "A": "shallot",
+    "B": "stollen",
+    "C": "scallop",
+    "D": "scone",
+    "Answer": "C"
+  },
+  {
+    "Id": 433,
+    "Question": "Which of these foods is poisonous to dogs?",
+    "A": "peanut butter",
+    "B": "bananas",
+    "C": "chocolate",
+    "D": "olives",
+    "Answer": "C"
+  },
+  {
+    "Id": 434,
+    "Question": "Which of these games is not played with cards?",
+    "A": "baccarat",
+    "B": "rummy",
+    "C": "craps",
+    "D": "solitaire",
+    "Answer": "C"
+  },
+  {
+    "Id": 435,
+    "Question": "Which of these foods is not traditionally considered kosher?",
+    "A": "citrus fruits",
+    "B": "barley",
+    "C": "chicken",
+    "D": "shellfish",
+    "Answer": "D"
+  },
+  {
+    "Id": 436,
+    "Question": "Which of these Hemingway characters is a newspaperman?",
+    "A": "Jake Barnes",
+    "B": "Rogelio Gomez",
+    "C": "Frederic Henry",
+    "D": "John MacWalsey",
+    "Answer": "A"
+  },
+  {
+    "Id": 437,
+    "Question": "Which of these holidays is not attached to a specific date?",
+    "A": "Independence Day",
+    "B": "New Year\u0027s Day",
+    "C": "Thanksgiving",
+    "D": "Christmas",
+    "Answer": "C"
+  },
+  {
+    "Id": 438,
+    "Question": "Which of these horror films spawned the most sequels?",
+    "A": "\u0027Scream\u0027",
+    "B": "\u0027Jaws\u0027",
+    "C": "\u0027Halloween\u0027",
+    "D": "\u0027Friday the 13th\u0027",
+    "Answer": "D"
+  },
+  {
+    "Id": 439,
+    "Question": "Which of these household pets should be vaccinated for parvovirus?",
+    "A": "hamster",
+    "B": "cat",
+    "C": "dog",
+    "D": "bird",
+    "Answer": "C"
+  },
+  {
+    "Id": 440,
+    "Question": "Which of these is a commonly-known investment account?",
+    "A": "CNN",
+    "B": "EMC",
+    "C": "IRA",
+    "D": "IRS",
+    "Answer": "C"
+  },
+  {
+    "Id": 441,
+    "Question": "Which of these is a fish?",
+    "A": "sea horse",
+    "B": "sea cow",
+    "C": "sea snake",
+    "D": "sea lion",
+    "Answer": "A"
+  },
+  {
+    "Id": 442,
+    "Question": "Which of these is a government agency established to protect investors?",
+    "A": "AAA",
+    "B": "NBA",
+    "C": "SEC",
+    "D": "MADD",
+    "Answer": "C"
+  },
+  {
+    "Id": 443,
+    "Question": "Which of these is a member of the cucumber family?",
+    "A": "green pepper",
+    "B": "watermelon",
+    "C": "potato",
+    "D": "green bean",
+    "Answer": "B"
+  },
+  {
+    "Id": 444,
+    "Question": "Which of these is a slang term for \u0027police\u0027?",
+    "A": "fuzz",
+    "B": "shrinks",
+    "C": "bean counters",
+    "D": "aardvarks",
+    "Answer": "A"
+  },
+  {
+    "Id": 445,
+    "Question": "Which of these is a type of artwork consisting of pieces of wood inlaid in geometric patterns?",
+    "A": "marquetry",
+    "B": "parquetry",
+    "C": "harquetry",
+    "D": "sharquetry",
+    "Answer": "B"
+  },
+  {
+    "Id": 446,
+    "Question": "Which of these is an Italian Design firm?",
+    "A": "Escada",
+    "B": "Fendi",
+    "C": "Ghost",
+    "D": "Mainbocher",
+    "Answer": "B"
+  },
+  {
+    "Id": 447,
+    "Question": "Which of these is another name for a golf course?",
+    "A": "Pitch",
+    "B": "Links",
+    "C": "Steps",
+    "D": "Suite",
+    "Answer": "B"
+  },
+  {
+    "Id": 448,
+    "Question": "Which of these is commonly used to treat allergies?",
+    "A": "antimatter",
+    "B": "anticoagulants",
+    "C": "antiseptics",
+    "D": "antihistamines",
+    "Answer": "D"
+  },
+  {
+    "Id": 449,
+    "Question": "Which of these is made from cacao seeds?",
+    "A": "marzipan",
+    "B": "soy sauce",
+    "C": "chocolate",
+    "D": "anchovies",
+    "Answer": "C"
+  },
+  {
+    "Id": 450,
+    "Question": "Which of these is not a breed of cat?",
+    "A": "Persian",
+    "B": "Turkish Angora",
+    "C": "Bichon Frise",
+    "D": "Maine Coon",
+    "Answer": "C"
+  },
+  {
+    "Id": 451,
+    "Question": "Which of these is not a city in the state of New York?",
+    "A": "Perskippity",
+    "B": "Kerhonkson",
+    "C": "Schenectady",
+    "D": "Lackawanna",
+    "Answer": "A"
+  },
+  {
+    "Id": 452,
+    "Question": "Which of these is not a fabric?",
+    "A": "Velveteen",
+    "B": "Celotex",
+    "C": "Seersucker",
+    "D": "Tencel",
+    "Answer": "B"
+  },
+  {
+    "Id": 453,
+    "Question": "Which of these is not a Hindu deity?",
+    "A": "Shiva",
+    "B": "Vishnu",
+    "C": "Sanskrit",
+    "D": "Brahma",
+    "Answer": "C"
+  },
+  {
+    "Id": 454,
+    "Question": "Which of these is not a \u0027lock\u0027 function on a standard desktop computer keyboard?",
+    "A": "print lock",
+    "B": "number lock",
+    "C": "scroll lock",
+    "D": "caps lock",
+    "Answer": "A"
+  },
+  {
+    "Id": 455,
+    "Question": "Which of these is not a position on an American football team?",
+    "A": "quarterback",
+    "B": "tight end",
+    "C": "striker",
+    "D": "free safety",
+    "Answer": "C"
+  },
+  {
+    "Id": 456,
+    "Question": "Which of these is not a spice?",
+    "A": "dill",
+    "B": "aniseed",
+    "C": "cucumber",
+    "D": "cayenne",
+    "Answer": "C"
+  },
+  {
+    "Id": 457,
+    "Question": "Which of these is not a style of shoe?",
+    "A": "gingham",
+    "B": "brogan",
+    "C": "espadrille",
+    "D": "docksider",
+    "Answer": "A"
+  },
+  {
+    "Id": 458,
+    "Question": "Which of these is not a traditional Greek dish?",
+    "A": "sukiyaki",
+    "B": "souvlaki",
+    "C": "moussaka",
+    "D": "finikia",
+    "Answer": "A"
+  },
+  {
+    "Id": 459,
+    "Question": "Which of these is not a type of chili pepper?",
+    "A": "habanero",
+    "B": "cheyenne",
+    "C": "jalapeno",
+    "D": "guajillo",
+    "Answer": "B"
+  },
+  {
+    "Id": 460,
+    "Question": "Which of these is not a type of primate?",
+    "A": "baboon",
+    "B": "marmot",
+    "C": "orangutan",
+    "D": "chimpanzee",
+    "Answer": "B"
+  },
+  {
+    "Id": 461,
+    "Question": "Which of these is not a type of rock?",
+    "A": "metamorphic",
+    "B": "sedimentary",
+    "C": "igneous",
+    "D": "deciduous",
+    "Answer": "D"
+  },
+  {
+    "Id": 462,
+    "Question": "Which of these is not an ingredient in Yorkshire pudding?",
+    "A": "eggs",
+    "B": "milk",
+    "C": "chocolate",
+    "D": "meat drippings",
+    "Answer": "C"
+  },
+  {
+    "Id": 463,
+    "Question": "Which of these is not found in a Snickers candy bar?",
+    "A": "almonds",
+    "B": "chocolate",
+    "C": "nougat",
+    "D": "caramel",
+    "Answer": "A"
+  },
+  {
+    "Id": 464,
+    "Question": "Which of these is not one of Aesop\u0027s fables?",
+    "A": "\u0027The Dog and the Squirrel\u0027",
+    "B": "\u0027The Hare and the Tortoise\u0027",
+    "C": "\u0027The Eagle and the Beetle\u0027",
+    "D": "\u0027The Ox and the Frogs\u0027",
+    "Answer": "A"
+  },
+  {
+    "Id": 465,
+    "Question": "Which of these is not one of superhero Captain Marvel\u0027s abilities?",
+    "A": "the power of Apollo",
+    "B": "the strength of Hercules",
+    "C": "the courage of Achilles",
+    "D": "the wisdom of Solomon",
+    "Answer": "A"
+  },
+  {
+    "Id": 466,
+    "Question": "Which of these is not one of the four basic forces in nature?",
+    "A": "electromagnetic",
+    "B": "gravitational",
+    "C": "nuclear",
+    "D": "centrifugal",
+    "Answer": "D"
+  },
+  {
+    "Id": 467,
+    "Question": "Which of these is not one of the official languages of the United Nations?",
+    "A": "Japanese",
+    "B": "English",
+    "C": "Russian",
+    "D": "Spanish",
+    "Answer": "A"
+  },
+  {
+    "Id": 468,
+    "Question": "Which of these is not one of the three branches of the US government?",
+    "A": "Judicial",
+    "B": "Executive",
+    "C": "Parliamentary",
+    "D": "Legislative",
+    "Answer": "C"
+  },
+  {
+    "Id": 469,
+    "Question": "Which of these is not the name of one of rock musician Frank Zappa\u0027s children?",
+    "A": "Dweezil",
+    "B": "Ahmet",
+    "C": "Moon Unit",
+    "D": "Lumpy Gravy",
+    "Answer": "D"
+  },
+  {
+    "Id": 470,
+    "Question": "Which of these is referred to as a \u0027pigskin\u0027?",
+    "A": "Football",
+    "B": "Basketball",
+    "C": "hockey puck",
+    "D": "catcher\u0027s Mitt",
+    "Answer": "A"
+  },
+  {
+    "Id": 471,
+    "Question": "Which of these is typically not used as a spice?",
+    "A": "dill",
+    "B": "thyme",
+    "C": "hemlock",
+    "D": "marjoram",
+    "Answer": "C"
+  },
+  {
+    "Id": 472,
+    "Question": "Which of these items is useful for removing ink stains?",
+    "A": "baking soda",
+    "B": "nail polish",
+    "C": "hair spray",
+    "D": "butter",
+    "Answer": "A"
+  },
+  {
+    "Id": 473,
+    "Question": "Which of these measurements is equal to one square foot?",
+    "A": "50 square inches",
+    "B": "77 square inches",
+    "C": "100 square inches",
+    "D": "144 square inches",
+    "Answer": "D"
+  },
+  {
+    "Id": 474,
+    "Question": "Which of these magazines does not focus on natural science?",
+    "A": "Tiger Beat",
+    "B": "Outside",
+    "C": "National Geographic",
+    "D": "Smithsonian",
+    "Answer": "A"
+  },
+  {
+    "Id": 475,
+    "Question": "Which of these men has never been a head coach in the NFL?",
+    "A": "Dick Vermeil",
+    "B": "Bill Parcells",
+    "C": "Chuck Noll",
+    "D": "Pat Riley",
+    "Answer": "D"
+  },
+  {
+    "Id": 476,
+    "Question": "Which of these months has 31 days?",
+    "A": "March",
+    "B": "April",
+    "C": "June",
+    "D": "September",
+    "Answer": "A"
+  },
+  {
+    "Id": 477,
+    "Question": "Which of these movies does not star Jim Carrey?",
+    "A": "\u0027Patch Adams\u0027",
+    "B": "\u0027The Truman Show\u0027",
+    "C": "\u0027Dumb and Dumber\u0027",
+    "D": "\u0027The Mask\u0027",
+    "Answer": "A"
+  },
+  {
+    "Id": 478,
+    "Question": "Which of these names has never belonged to a Pope?",
+    "A": "Leo",
+    "B": "Lando",
+    "C": "Linus",
+    "D": "Lawrence",
+    "Answer": "D"
+  },
+  {
+    "Id": 479,
+    "Question": "Which of these organizations is not part of the U.S. government?",
+    "A": "NAACP",
+    "B": "NASA",
+    "C": "CIA",
+    "D": "FBI",
+    "Answer": "A"
+  },
+  {
+    "Id": 480,
+    "Question": "Which of these organs comes in a pair?",
+    "A": "liver",
+    "B": "kidney",
+    "C": "stomach",
+    "D": "gallbladder",
+    "Answer": "B"
+  },
+  {
+    "Id": 481,
+    "Question": "Which of these painting tools has bristles on it?",
+    "A": "easel",
+    "B": "knife",
+    "C": "brush",
+    "D": "palette",
+    "Answer": "C"
+  },
+  {
+    "Id": 482,
+    "Question": "Which of these pastas is spiral shaped?",
+    "A": "fettuccine",
+    "B": "rigatoni",
+    "C": "tortellini",
+    "D": "rotini",
+    "Answer": "D"
+  },
+  {
+    "Id": 483,
+    "Question": "Which of these people was buried in the Valley of the Kings?",
+    "A": "Louis XIV",
+    "B": "Elvis Presley",
+    "C": "Julius Caesar",
+    "D": "King Tut",
+    "Answer": "D"
+  },
+  {
+    "Id": 484,
+    "Question": "Which of these people was not alive in the 20th century?",
+    "A": "Mark Twain",
+    "B": "Thomas Edison",
+    "C": "Sigmund Freud",
+    "D": "Ulysses S. Grant",
+    "Answer": "D"
+  },
+  {
+    "Id": 485,
+    "Question": "Which of these performers made her film debut in Spike Lee\u0027s \u0027Do the Right Thing\u0027?",
+    "A": "Jennifer Lopez",
+    "B": "Rosie Perez",
+    "C": "Paula Abdul",
+    "D": "Tisha Campbell",
+    "Answer": "B"
+  },
+  {
+    "Id": 486,
+    "Question": "Which of these places is known for art auctions?",
+    "A": "Shelby\u0027s",
+    "B": "Nickleby\u0027s",
+    "C": "Gatsby\u0027s",
+    "D": "Sotheby\u0027s",
+    "Answer": "D"
+  },
+  {
+    "Id": 487,
+    "Question": "Which of these plants is the national emblem of Scotland?",
+    "A": "ivy",
+    "B": "thistle",
+    "C": "rose",
+    "D": "linden",
+    "Answer": "B"
+  },
+  {
+    "Id": 488,
+    "Question": "Which of these popular games relies on bluffing?",
+    "A": "Outburst",
+    "B": "Balderdash",
+    "C": "Pictionary",
+    "D": "Scattergories",
+    "Answer": "B"
+  },
+  {
+    "Id": 489,
+    "Question": "Which of these refers to an alcoholic drink laced with a knockout drug?",
+    "A": "Zombie",
+    "B": "Kamikaze",
+    "C": "Mickey Finn",
+    "D": "Molotov cocktail",
+    "Answer": "C"
+  },
+  {
+    "Id": 490,
+    "Question": "Which of these rivers flows through France?",
+    "A": "Volga",
+    "B": "Seine",
+    "C": "Mekong",
+    "D": "Allegheny",
+    "Answer": "B"
+  },
+  {
+    "Id": 491,
+    "Question": "Which of these rock guitarists designed a colorful line of men\u0027s neckties?",
+    "A": "Eric Clapton",
+    "B": "Jerry Garcia",
+    "C": "Jeff Beck",
+    "D": "Keith Richards",
+    "Answer": "B"
+  },
+  {
+    "Id": 492,
+    "Question": "Which of these rocks will float in water?",
+    "A": "granite",
+    "B": "limestone",
+    "C": "shale",
+    "D": "pumice",
+    "Answer": "D"
+  },
+  {
+    "Id": 493,
+    "Question": "Which of these sentences is written in the subjunctive?",
+    "A": "I am not your man",
+    "B": "I wish I were your man",
+    "C": "Wherefore art your man?",
+    "D": "Your man is where?",
+    "Answer": "B"
+  },
+  {
+    "Id": 494,
+    "Question": "Which of these snakes is poisonous?",
+    "A": "anaconda",
+    "B": "boa constrictor",
+    "C": "copperhead",
+    "D": "python",
+    "Answer": "C"
+  },
+  {
+    "Id": 495,
+    "Question": "Which of these songs was a Top 10 hit for the rock band The Police?",
+    "A": "\u0027Radio Ga-Ga\u0027",
+    "B": "\u0027Ob-la-di, Ob-la-da\u0027",
+    "C": "\u0027De Do Do Do, De Da Da Da\u0027",
+    "D": "\u0027In-a-Gadda-Da-Vida\u0027",
+    "Answer": "C"
+  },
+  {
+    "Id": 496,
+    "Question": "Which of these sounds is commonly associated with owls?",
+    "A": "chirp",
+    "B": "bark",
+    "C": "growl",
+    "D": "hoot",
+    "Answer": "D"
+  },
+  {
+    "Id": 497,
+    "Question": "Which of these states is not the birthplace of a US president?",
+    "A": "New Jersey",
+    "B": "Nebraska",
+    "C": "Kansas",
+    "D": "California",
+    "Answer": "C"
+  },
+  {
+    "Id": 498,
+    "Question": "Which of these stores is not owned by Gap Inc?",
+    "A": "Gap",
+    "B": "Banana Republic",
+    "C": "Old Navy",
+    "D": "J Crew",
+    "Answer": "D"
+  },
+  {
+    "Id": 499,
+    "Question": "Which of these television programs did not feature characters introduced on \u0027Happy Days\u0027?",
+    "A": "\u0027Mork \u0026 Mindy\u0027",
+    "B": "\u0027Perfect Strangers\u0027",
+    "C": "\u0027Joanie Loves Chachi\u0027",
+    "D": "\u0027Laverne \u0026 Shirley\u0027",
+    "Answer": "B"
+  },
+  {
+    "Id": 500,
+    "Question": "Which of these television series was not set in the United States?",
+    "A": "\u0027Picket Fences\u0027",
+    "B": "\u0027M*A*S*H\u0027",
+    "C": "\u0027Northern Exposure\u0027",
+    "D": "\u0027The Paper Chase\u0027",
+    "Answer": "B"
+  },
+  {
+    "Id": 501,
+    "Question": "Which of these toys Answers Questions?",
+    "A": "Magic 8 Ball",
+    "B": "Barbie",
+    "C": "Frisbee",
+    "D": "Slinky",
+    "Answer": "A"
+  },
+  {
+    "Id": 502,
+    "Question": "Which of these vitamins was the first to be named?",
+    "A": "Vitamin A",
+    "B": "Vitamin-12",
+    "C": "Vitamin E",
+    "D": "Vitameatavegimen",
+    "Answer": "A"
+  },
+  {
+    "Id": 503,
+    "Question": "Which of these words is a synonym for \u0027perambulate\u0027?",
+    "A": "kiss",
+    "B": "shout",
+    "C": "stroll",
+    "D": "heal",
+    "Answer": "C"
+  },
+  {
+    "Id": 504,
+    "Question": "Which of these words is an adverb?",
+    "A": "hurried",
+    "B": "fast",
+    "C": "speedy",
+    "D": "quickly",
+    "Answer": "D"
+  },
+  {
+    "Id": 505,
+    "Question": "Which of these words means \u0027yes\u0027 in French?",
+    "A": "qui",
+    "B": "oui",
+    "C": "ja",
+    "D": "okey-dokey",
+    "Answer": "B"
+  },
+  {
+    "Id": 506,
+    "Question": "Which of these words is spelled correctly?",
+    "A": "decieve",
+    "B": "foriegn",
+    "C": "hygiene",
+    "D": "wierd",
+    "Answer": "C"
+  },
+  {
+    "Id": 507,
+    "Question": "Which one of these world leaders was assassinated?",
+    "A": "Indira Gandhi",
+    "B": "Ferdinand Marcos",
+    "C": "Golda Meir",
+    "D": "Neville Chamberlain",
+    "Answer": "A"
+  },
+  {
+    "Id": 508,
+    "Question": "Which one of these World War II leaders was not at the Yalta Conference?",
+    "A": "Stalin",
+    "B": "Mussolini",
+    "C": "Churchill",
+    "D": "Roosevelt",
+    "Answer": "B"
+  },
+  {
+    "Id": 509,
+    "Question": "Which of these would you most commonly find in a sconce?",
+    "A": "candle",
+    "B": "food",
+    "C": "birds",
+    "D": "books",
+    "Answer": "A"
+  },
+  {
+    "Id": 510,
+    "Question": "Which Pope immediately preceded John Paul II?",
+    "A": "John XXIII ",
+    "B": "Paul VI",
+    "C": "John Paul I",
+    "D": "Hank II",
+    "Answer": "C"
+  },
+  {
+    "Id": 511,
+    "Question": "Which \u0027Rocky\u0027 film features Mr. T?",
+    "A": "\u0027Rocky II\u0027",
+    "B": "\u0027Rocky III\u0027",
+    "C": "\u0027Rocky IV\u0027",
+    "D": "\u0027Rocky \u0027",
+    "Answer": "B"
+  },
+  {
+    "Id": 512,
+    "Question": "Who co-founded Microsoft with Bill Gates?",
+    "A": "Steve Jobs",
+    "B": "Steve Wozniak",
+    "C": "Paul Williams",
+    "D": "Paul Allen",
+    "Answer": "D"
+  },
+  {
+    "Id": 513,
+    "Question": "Who composed the \u0027Moonlight Sonata\u0027?",
+    "A": "Mozart",
+    "B": "Handel",
+    "C": "Bach",
+    "D": "Beethoven",
+    "Answer": "D"
+  },
+  {
+    "Id": 514,
+    "Question": "Who is an archenemy of the cartoon superhero Underdog?",
+    "A": "OverCat",
+    "B": "Muttley",
+    "C": "Mr. Whoopie",
+    "D": "Dick Dastardly",
+    "Answer": "A"
+  },
+  {
+    "Id": 515,
+    "Question": "Who is considered the owner of a \u0027publicly held\u0027 company?",
+    "A": "the CEO",
+    "B": "the stockholders",
+    "C": "the president",
+    "D": "the government",
+    "Answer": "B"
+  },
+  {
+    "Id": 516,
+    "Question": "Who is the career hit leader among players never elected to Baseball\u0027s Hall of Fame?",
+    "A": "Steve Garvey",
+    "B": "Jim Rice",
+    "C": "Pete Rose",
+    "D": "Ken Griffey Jr",
+    "Answer": "C"
+  },
+  {
+    "Id": 517,
+    "Question": "Who is the creator of the comic strip \u0027The Far Side\u0027?",
+    "A": "Jim Davis",
+    "B": "Gary Larson",
+    "C": "Garry Trudeau",
+    "D": "Charles Schulz",
+    "Answer": "B"
+  },
+  {
+    "Id": 518,
+    "Question": "Who is the mythological Roman goddess of flowers?",
+    "A": "Diana",
+    "B": "Echo",
+    "C": "Flora",
+    "D": "Niobe",
+    "Answer": "C"
+  },
+  {
+    "Id": 519,
+    "Question": "Who is the patron saint of animals?",
+    "A": "St. Isidore of Seville",
+    "B": "St. Anthony of Padua",
+    "C": "St. Francis of Assisi",
+    "D": "St. Joan of Arc",
+    "Answer": "C"
+  },
+  {
+    "Id": 520,
+    "Question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+    "A": "Anthony \u0027Spud\u0027 Webb",
+    "B": "Michael \u0027Air\u0027 Jordan",
+    "C": "Tyrone \u0027Muggsy\u0027 Bogues",
+    "D": "Julius \u0027Dr. J\u0027 Erving",
+    "Answer": "A"
+  },
+  {
+    "Id": 521,
+    "Question": "Who is the star of the movie \u0027Casablanca\u0027?",
+    "A": "Errol Flynn",
+    "B": "Clark Gable",
+    "C": "Cary Grant",
+    "D": "Humphrey Bogart",
+    "Answer": "D"
+  },
+  {
+    "Id": 522,
+    "Question": "Who is the star of the TV show \u0027Everybody Loves Raymond\u0027?",
+    "A": "Ray Liotta",
+    "B": "Ray Romano",
+    "C": "Ray Parker Jr.",
+    "D": "Sugar Ray Leonard",
+    "Answer": "B"
+  },
+  {
+    "Id": 523,
+    "Question": "Who is the twin sister of \u0027Dear Abby\u0027 columnist Abigail VanBuren?",
+    "A": "Martha Stewart",
+    "B": "Dr Ruth Westheimer",
+    "C": "Ann Landers",
+    "D": "Miss Manners",
+    "Answer": "C"
+  },
+  {
+    "Id": 524,
+    "Question": "Who kills Tony at the end of the film \u0027West Side Story\u0027?",
+    "A": "Riff",
+    "B": "Chino",
+    "C": "Bernardo",
+    "D": "He kills himself.",
+    "Answer": "B"
+  },
+  {
+    "Id": 525,
+    "Question": "Who led the 1831 slave insurrection in Southampton, Virginia?",
+    "A": "John Brown",
+    "B": "Dred Scott",
+    "C": "Nat Turner",
+    "D": "Harriet Tubman",
+    "Answer": "C"
+  },
+  {
+    "Id": 526,
+    "Question": "Who or what was Big Bertha?",
+    "A": "a comet",
+    "B": "a World War I gun",
+    "C": "a pro wrestling champion",
+    "D": "a giant Muppet",
+    "Answer": "B"
+  },
+  {
+    "Id": 527,
+    "Question": "Who originally proposed the idea of daylight-saving time?",
+    "A": "Benjamin Franklin",
+    "B": "Henry David Thoreau",
+    "C": "Galileo",
+    "D": "Albert Einstein",
+    "Answer": "A"
+  },
+  {
+    "Id": 528,
+    "Question": "Who sang lead vocals for the band Big Brother and the Holding Company?",
+    "A": "Grace Slick",
+    "B": "Janis Joplin",
+    "C": "Mama Cass",
+    "D": "Karen Carpenter",
+    "Answer": "B"
+  },
+  {
+    "Id": 529,
+    "Question": "Who was Charlie McCarthy?",
+    "A": "a U.S. senator",
+    "B": "a Chicago gangster",
+    "C": "a famous baseball pitcher",
+    "D": "a wooden dummy",
+    "Answer": "D"
+  },
+  {
+    "Id": 530,
+    "Question": "Who was not one of the Cartwright sons on the TV series \u0027Bonanza\u0027?",
+    "A": "Adam",
+    "B": "Little Joe",
+    "C": "Hoss",
+    "D": "Ben",
+    "Answer": "D"
+  },
+  {
+    "Id": 531,
+    "Question": "Who was on the $500 bill?",
+    "A": "Calvin Coolidge",
+    "B": "Andrew Jackson",
+    "C": "Aaron Burr",
+    "D": "William McKinley",
+    "Answer": "D"
+  },
+  {
+    "Id": 532,
+    "Question": "Who was president of the United States when Bill Clinton was born?",
+    "A": "Herbert Hoover",
+    "B": "Harry S. Truman",
+    "C": "Franklin Roosevelt",
+    "D": "Dwight Eisenhower",
+    "Answer": "B"
+  },
+  {
+    "Id": 533,
+    "Question": "Who was the English king at the time of the American Revolution?",
+    "A": "Charles I",
+    "B": "James I",
+    "C": "Edward III",
+    "D": "George III",
+    "Answer": "D"
+  },
+  {
+    "Id": 534,
+    "Question": "Who was the first American in space?",
+    "A": "John Glenn",
+    "B": "Buzz Aldrin",
+    "C": "Alan Shepard",
+    "D": "Neil Armstrong",
+    "Answer": "C"
+  },
+  {
+    "Id": 535,
+    "Question": "Who was the first First Lady to run for political office?",
+    "A": "Hillary Clinton",
+    "B": "Rosalynn Carter",
+    "C": "Bess Truman",
+    "D": "Eleanor Roosevelt",
+    "Answer": "A"
+  },
+  {
+    "Id": 536,
+    "Question": "Who was the first US president to resign from that office?",
+    "A": "Martin Van Buren",
+    "B": "Andrew Jackson",
+    "C": "Andrew Johnson",
+    "D": "Richard Nixon",
+    "Answer": "D"
+  },
+  {
+    "Id": 537,
+    "Question": "Who was the longest reigning monarch in French history?",
+    "A": "Louis XIII ",
+    "B": "Louis XIV",
+    "C": "Louis XV",
+    "D": "Louis XVI",
+    "Answer": "B"
+  },
+  {
+    "Id": 538,
+    "Question": "Who was the mother of the Greek god Zeus?",
+    "A": "Gaia",
+    "B": "Phoebe",
+    "C": "Rhea",
+    "D": "Hera",
+    "Answer": "C"
+  },
+  {
+    "Id": 539,
+    "Question": "Who was the WNBA\u0027s Most Valuable Player of 1999?",
+    "A": "Rebecca Lobo",
+    "B": "Sheryl Swoopes",
+    "C": "Lisa Leslie",
+    "D": "Yolanda Griffith",
+    "Answer": "D"
+  },
+  {
+    "Id": 540,
+    "Question": "Who were the Chicago Seven?",
+    "A": "war protesters",
+    "B": "bluegrass musicians",
+    "C": "bank robbers",
+    "D": "mobsters",
+    "Answer": "A"
+  },
+  {
+    "Id": 541,
+    "Question": "Who were the Know-Nothings?",
+    "A": "a \u002760\u0027s comedy troupe",
+    "B": "computer designers",
+    "C": "a political party",
+    "D": "a spy ring",
+    "Answer": "C"
+  },
+  {
+    "Id": 542,
+    "Question": "Who wrote \u0027A Tale of Two Cities\u0027?",
+    "A": "Charles Dickens",
+    "B": "Nathaniel Hawthorne",
+    "C": "Washington Irving",
+    "D": "Mark Twain",
+    "Answer": "A"
+  },
+  {
+    "Id": 543,
+    "Question": "Who wrote musicals with Oscar Hammerstein II?",
+    "A": "Richard Rodgers",
+    "B": "Rogers Hornsby",
+    "C": "Gilbert O\u0027 Sullivan",
+    "D": "George Rogers Clark",
+    "Answer": "A"
+  },
+  {
+    "Id": 544,
+    "Question": "Who wrote the lyrics of the Frank Sinatra anthem \u0027My Way\u0027?",
+    "A": "Frank Sinatra",
+    "B": "Kris Krist offerson",
+    "C": "Carole King",
+    "D": "Paul Anka",
+    "Answer": "D"
+  },
+  {
+    "Id": 545,
+    "Question": "Whom did Billie Jean King defeat in the famous \u0027Battle of the Sexes\u0027 tennis match?",
+    "A": "Jimmy Connors",
+    "B": "Pete Sampras",
+    "C": "John McEnroe",
+    "D": "Bobby Riggs",
+    "Answer": "D"
+  },
+  {
+    "Id": 546,
+    "Question": "Whose profile can you see on the front of dimes that are currently in circulation?",
+    "A": "George Washington",
+    "B": "Thomas Jefferson",
+    "C": "Benjamin Franklin",
+    "D": "Franklin Roosevelt",
+    "Answer": "D"
+  },
+  {
+    "Id": 547,
+    "Question": "With what would you use a wah-wah pedal?",
+    "A": "bicycle",
+    "B": "stock car",
+    "C": "electric guitar",
+    "D": "baby",
+    "Answer": "C"
+  }
+]
