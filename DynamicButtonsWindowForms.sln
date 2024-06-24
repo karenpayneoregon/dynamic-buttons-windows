@@ -7,13 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateDynamicControlsCore",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{943178E2-1C5C-4558-9267-939F7B8AC0FA}"
 	ProjectSection(SolutionItems) = preProject
-		questions.json = questions.json
 		readme.md = readme.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicExample", "BasicExample\BasicExample.csproj", "{1D0F62FD-B460-4253-A4A8-E586D9160F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonQuestions", "JsonQuestions\JsonQuestions.csproj", "{0B82CD41-82A9-485B-A2A1-42F109C69C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonQuestions", "JsonQuestions\JsonQuestions.csproj", "{0B82CD41-82A9-485B-A2A1-42F109C69C18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

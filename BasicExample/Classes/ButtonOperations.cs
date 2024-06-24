@@ -14,8 +14,7 @@ public static class ButtonOperations
     public static EventHandler EventHandler { get; set; }
     public static Control ParentControl { get; set; }
     private static int _index = 1;
-
-
+    
     public static void Initialize(ButtonSetup sender)
     {
 

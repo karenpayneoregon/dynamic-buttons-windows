@@ -3,7 +3,7 @@
 namespace BasicExample.Controls;
 
 /// <summary>
-/// Adds a property for storing category primary key
+/// Adds a property for storing category primary key and image to display
 /// </summary>
 public class DataButton : Button
 {
