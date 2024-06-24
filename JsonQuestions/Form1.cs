@@ -1,5 +1,4 @@
 using System.ComponentModel;
-using System.Runtime.InteropServices;
 using JsonQuestions.Classes;
 using JsonQuestions.Controls;
 using Container = JsonQuestions.Models.Container;
@@ -20,7 +19,6 @@ public partial class Form1 : Form
         InitializeComponent();
         
         ButtonOperations.BaseName = "CategoryButton";
-
 
         var buttonSetup = new ButtonSetup
         {
@@ -54,15 +52,15 @@ public partial class Form1 : Form
         _currentContainer = _containers[0];
 
         var answer = _currentContainer.Answer;
-
         var rb = QuestionGroupBox.Controls.OfType<RadioButton>()
             .FirstOrDefault(x => x.Name.EndsWith(answer));
 
-        rb.Tag = "Correct";
+        rb!.Tag = "Correct";
     }
 
     private void ButtonClick(object? sender, EventArgs e)
     {
+        // clear all tags used in the button click event to determine correct answer
         foreach (var radioButton in QuestionGroupBox.Controls.OfType<RadioButton>())
         {
             radioButton.Tag = null;
@@ -71,10 +69,12 @@ public partial class Form1 : Form
         var button = (DataButton)sender!;
         _currentContainer = button.Container;
 
+        // set the correct answer for the radio button
         var rb = QuestionGroupBox.Controls.OfType<RadioButton>()
             .FirstOrDefault(x => x.Name.EndsWith(_currentContainer.Answer));
-        rb.Tag = "Correct";
+        rb!.Tag = "Correct";
 
+        // set the position of the binding source to the current container/question
         _bindingSource.Position = _containers.IndexOf(_currentContainer);
 
         foreach (var radioButton in QuestionGroupBox.RadioButtonList())
@@ -88,8 +88,6 @@ public partial class Form1 : Form
     {
         var answer = QuestionGroupBox.RadioButtonChecked();
         if (answer is null) return;
-
-
         if (answer.Tag is not null)
         {
             MessageBox.Show("Correct");  
